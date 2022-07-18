@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "You get the one crappy cape|They keep challenging you to a dance fight|You get the Please Don’t Participate Award|When you leap in the air, everyone scatters|They step on your toes even outside of class|They hire a small town preacher to tell you to stop dancing",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Знак, який повідомляє про те, що всі у вашому класі танців вас ненавидять",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "A good sign everyone in your dance class hates you",
+      "t": "A",
+      "v": "542821_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

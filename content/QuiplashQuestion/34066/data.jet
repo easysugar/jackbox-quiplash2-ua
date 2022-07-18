@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "righty|rightie",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Righty? Yeah, Van Gogh wasn’t known for being very creative.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Імʼя, яке дав Ван Гог своєму другому вуху",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "Righty? Yeah, Van Gogh wasn’t known for being very creative.",
+      "t": "A",
+      "v": "470057_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The nickname Van Gogh gave his remaining ear",
+      "t": "A",
+      "v": "470055_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

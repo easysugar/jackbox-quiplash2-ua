@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "your death|your own death|you dying|how you’re going to die",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "This crayon drawing of my death would be useful if I could just figure out what was killing me. Is that a knife? A weird banana? Learn to draw, kid!",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ви знаєте, що у вашої дитини незвичайна фантазія, коли вона дає вам листок, на якому намальований <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "This crayon drawing of my death would be useful if I could just figure out what was killing me. Is that a knife? A weird banana? Learn to draw, kid!",
+      "t": "A",
+      "v": "477240_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "You know you have a messed-up kid when they give you a crayon drawing of <BLANK>",
+      "t": "A",
+      "v": "477238_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Armed and Dangly-Legged|Party Up Top|Honey, I Skipped Leg Day|A Farewell to Legs|America’s Weakest Knees",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Назва майбутнього телешоу із людьми з великими руками та маленькими ніжками",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The name of the upcoming TV show starring men with big arms and tiny legs",
+      "t": "A",
+      "v": "467301_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

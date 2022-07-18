@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "die",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Actually, if you die in Mississippi, you’re both dead AND in Missippi.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Єдиний спосіб вийти із Дніпра - це <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "Actually, if you die in Mississippi, you’re both dead AND in Missippi.",
+      "t": "A",
+      "v": "469298_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The only way out of Mississippi is to <BLANK>",
+      "t": "A",
+      "v": "469296_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

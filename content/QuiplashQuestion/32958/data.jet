@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Your doctor won’t make eye contact|You can’t lift your phone to vote on this question|You sweat alfredo sauce|The gym you signed up for burned down 7 years ago|Your trainer is a skeleton|Your sleeping on a stack of rotisserie chickens",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ви знаєте, що потрібно працювати більше, коли ви помічаєте <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "You know you need to work out more when you notice <BLANK>",
+      "t": "A",
+      "v": "463524_2",
+      "n": "PromptAudio"
+    }
+  ]
+}

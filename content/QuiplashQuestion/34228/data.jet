@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Tax|Contamination|Shortages|Discharge|Police|Memes",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "shortage",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Don’t even joke about a bacon shortage. I’m still reeling from the maple-glaze price fixing scandal of 2003.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Єдине погане слово, що може стояти перед словом \"сало\"",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "Don’t even joke about a bacon shortage. I’m still reeling from the maple-glaze price fixing scandal of 2003.",
+      "t": "A",
+      "v": "471259_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The only bad word that can follow “bacon”",
+      "t": "A",
+      "v": "471257_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

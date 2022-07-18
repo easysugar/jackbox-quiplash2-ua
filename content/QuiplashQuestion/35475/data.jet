@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Dump him for a killer whale|Keep mispronouncing his name when you squeak at him|Refer to him as your “big slimy waterdog”|Swallow a mackerel whole without offering him any|Throw trash in his blowhole|Ask when he’s gonna grow legs like a real mammal",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Гарний спосіб розлютити дельфіна - це <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "A great way to make a dolphin mad is to <BLANK>",
+      "t": "A",
+      "v": "478656_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "You’re the only one there, but the bathroom is always “ocupado”|You keep waking up in Nebraska|The mini-fridge says “Zuul”|Your dead uncle keeps offering to drive for a few hours|Mysterious footprints in the shag carpeting",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Як ви розумієте, що вас переслідують?",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "How you know your RV is haunted",
+      "t": "A",
+      "v": "470105_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

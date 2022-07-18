@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Reasons to Love Mondays|George Washington’s Greatest Tweets|Socks: A User’s Guide|A Gnat’s Autobiography|Your Dad’s Funniest Jokes|People Your Vice Principal Liked",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Назва найкоротшої книги у світі",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The title of the shortest book ever written",
+      "t": "A",
+      "v": "474014_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

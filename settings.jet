@@ -1,0 +1,186 @@
+{
+    "rows": 7,
+    "cols": 1,
+    "cellWidth": 682,
+    "cellHeight": 57,
+    "clip": "Quiplash2SettingsWidget",
+    "localized": "true",
+    "maxDescriptionSize": 21,
+    "items": [
+        {
+            "title": "LANGUAGE",
+            "type": "List",
+            "clip": "Quiplash2LangWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "Locale",
+            "options": [
+                "Українська",
+                "Français",
+                "Italiano",
+                "Deutsch",
+                "Español"
+            ],
+            "values": [
+                "en",
+                "fr",
+                "it",
+                "de",
+                "es"
+            ],
+            "icons": [
+                "LangEnglish",
+                "LangFrench",
+                "LangItalian",
+                "LangGerman",
+                "LangSpanish"
+            ],
+            "defaultValueIndex":0,
+            "description": "LANGUAGE_DESCRIPTION"
+        },
+        {
+            "title": "VOLUME",
+            "type": "Range",
+            "clip": "Quiplash2SliderWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "Volume",
+            "step": 0.1,
+            "description": "VOLUME_DESCRIPTION"
+        },
+        {
+            "title": "FULL_SCREEN",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FullScreen",
+            "description": "FULL_SCREEN_DESCRIPTION"
+        },
+        {
+            "title": "AUDIENCE_MODE",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "AudienceOn",
+            "description": "AUDIENCE_MODE_DESCRIPTION"
+        },
+        {
+            "title": "AUDIENCE_PLAY_ALONG",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "AudiencePlayAlong",
+            "description": "AUDIENCE_PLAY_ALONG_DESCRIPTION"
+        },
+        {
+            "title": "EXTENDED_TIMERS",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "ExtendedTimers",
+            "description": "EXTENDED_TIMERS_DESCRIPTION"
+        },
+        {
+            "title": "PASSWORD_PROTECTED",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "PasswordedRoom",
+            "description": "PASSWORD_PROTECTED_DESCRIPTION"
+        },
+        {
+            "title": "TWITCH_REQUIRED",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "RequireTwitch",
+            "description": "TWITCH_REQUIRED_DESCRIPTION"
+        },
+        {
+            "title": "FAMILY_FRIENDLY",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "FamilyFriendly",
+            "description": "FAMILY_FRIENDLY_DESCRIPTION"
+        },
+        {
+            "title": "POSTGAME_SHARING",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "PostGameSharing",
+            "description": "POSTGAME_SHARING_DESCRIPTION"
+        },
+        {
+            "title": "MANUAL_CENSORING",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "Censorable",
+            "description": "MANUAL_CENSORING_DESCRIPTION"
+        },
+        {
+            "title": "START_GAMEPAD",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "GamepadStart",
+            "description": "START_GAMEPAD_DESCRIPTION"
+        },
+        {
+            "title": "HIDE_ROOM_CODE",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "HideRoomCode",
+            "description": "HIDE_ROOM_CODE_DESCRIPTION"
+        },
+        {
+            "title": "MAX_PLAYERS",
+            "type": "List",
+            "clip": "Quiplash2ListWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "MaxPlayers",
+            "options": [3,4,5,6,7,8],
+            "defaultValueIndex":5,
+            "description": "MAX_PLAYERS_DESCRIPTION"
+        },
+        {
+            "title": "SUBTITLES",
+            "type": "Toggle",
+            "clip": "Quiplash2ToggleWidget",
+            "colorSelected": 16777215,
+            "colorUnselected": 0,
+            "width": 1,
+            "source": "Subtitles",
+            "description": "SUBTITLES_DESCRIPTION"
+        }
+    ]
+}

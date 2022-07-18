@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "I’m an undercover cop.|Which one is Taylor Swift again?|This school is Squaresville! Let’s skedaddle!|Can you repeat that, and speak clearly into my pencil?|You kids into contraband?|There’s gonna be a pop quiz today. I bet my badge on it.",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Як говорить коп під прикриттям, що прикидається підлітком?",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "What a bad undercover cop posing as a teen says",
+      "t": "A",
+      "v": "464922_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

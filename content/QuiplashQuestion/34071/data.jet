@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Another crock-pot|MIllard FIllmore|Your life savings|The beans that mysterious old man sold you|Your hamster|a lot of faith",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "ПОПЕРЕДЖЕННЯ: Ніколи не кладіть <BLANK> в тиховарку",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "WARNING: Never put <BLANK> into a Crock-Pot",
+      "t": "A",
+      "v": "470080_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

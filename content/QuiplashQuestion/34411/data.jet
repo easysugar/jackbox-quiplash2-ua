@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "“You like to wrassle?”|“Actually I have a product that might interest YOU!!”|“Watch my kid real quick while I take a nap.”|“I never thought I’d meet my husband like this...”|“Perfect timing. Are you good at using a loofah?”|“Want to see the pics from my vacation to Delaware?”",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ідеальне слово, щоб позбутися від бродячих адвокатів",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The perfect thing to say to get rid of door-to-door solicitors",
+      "t": "A",
+      "v": "472401_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

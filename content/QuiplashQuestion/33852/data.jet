@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "hell",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "I’m telling Lily Tomlin you wrote this.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Відхилена назва в серії <i>Magic School Bus</i>: <i>The Magic School Bus їде до <BLANK></i>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "I’m telling Lily Tomlin you wrote this.",
+      "t": "A",
+      "v": "468469_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "A rejected title in the <i>Magic School Bus</i> series: <i>The Magic School Bus Goes to <BLANK></i>",
+      "t": "A",
+      "v": "468467_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

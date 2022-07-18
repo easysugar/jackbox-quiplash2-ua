@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "You forgot you have kids|Seemed boring|Waiting for pizza rolls to finish cooking|Afraid to admit you don’t know what a graduation is|“Sorry, I was with my other family.”|Busy bribing the principal",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Погана відмовка, щоб пропустити випускний своєї дитини",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "A bad excuse for missing your kid’s graduation",
+      "t": "A",
+      "v": "467078_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

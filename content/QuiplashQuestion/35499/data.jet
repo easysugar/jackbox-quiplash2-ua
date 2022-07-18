@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "penis|my penis|dick|my dick|vagina|my vagina|pussy|my pussy",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Just a reminder: make sure to get clear consent before dipping your genitals into someone’s beverage.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ви знаєте, що бариста кав’ярні залицяється до вас, коли вони запитують: «Чи бажаєте ви місця для <BLANK>?»",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "Just a reminder: make sure to get clear consent before dipping your genitals into someone’s beverage.",
+      "t": "A",
+      "v": "478886_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "You know the coffee shop barista is hitting on you when they ask “Would you like room for <BLANK>?”",
+      "t": "A",
+      "v": "478884_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

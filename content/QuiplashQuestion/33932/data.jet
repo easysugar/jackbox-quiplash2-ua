@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "A team of talking alaskan huskies|A tow truck|Real big magnets|A sweet Hemi|8th graders|ReinFerrets",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Санта виганяє північних оленів, тож наступного року його сани буде тягнути <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "Santa’s phasing out reindeer and next year, his sleigh will be pulled by <BLANK>",
+      "t": "A",
+      "v": "469341_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

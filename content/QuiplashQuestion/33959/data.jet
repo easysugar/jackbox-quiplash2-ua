@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "sex|fucking|intercourse",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Nothing you say during sex will hold up in court. At least that’s what the lawyer I’m sleeping with told me.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Не вчасно казати комусь про розлучення, коли ви посередині <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "Nothing you say during sex will hold up in court. At least that’s what the lawyer I’m sleeping with told me.",
+      "t": "A",
+      "v": "469522_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The worst time to tell someone you want a divorce is in the middle of <BLANK>",
+      "t": "A",
+      "v": "469520_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

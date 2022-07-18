@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "down your pants|in your pants|your pants|my pants",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "If putting picnic food down your pants is so wrong, then I guess you don’t want a slice of this delicious watermelon I’ve been keeping warm all day. More for me.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Найгірша страва на святковому столі",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "If putting picnic food down your pants is so wrong, then I guess you don’t want a slice of this delicious watermelon I’ve been keeping warm all day. More for me.",
+      "t": "A",
+      "v": "477562_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The worst place to put potato salad",
+      "t": "A",
+      "v": "477560_0",
+      "n": "PromptAudio"
+    }
+  ]
+}
