@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Найгірше в відносинах з хлопцем, який є високорозвиненим роботом",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The worst part about having a boyfriend who’s secretly a highly advanced robot",
+      "t": "A",
+      "v": "478671_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

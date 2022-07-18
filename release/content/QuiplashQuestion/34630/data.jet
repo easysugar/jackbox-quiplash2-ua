@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "air",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Bottled air? They tried to sell me that when I went SCUBA diving but I didn’t fall for it.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Записка, яку не варто засовувати у пляшку",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "Bottled air? They tried to sell me that when I went SCUBA diving but I didn’t fall for it.",
+      "t": "A",
+      "v": "473521_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The next big craze for yuppies: bottled <BLANK>",
+      "t": "A",
+      "v": "473519_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

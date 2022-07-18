@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Через 25 років люди майбутнього будуть озиратися назад і вважати, що ми дебіли, бо не усвідомлюємо, що <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "In 25 years, people of the future will look back and think we’re morons for not realizing that <BLANK>",
+      "t": "A",
+      "v": "465291_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

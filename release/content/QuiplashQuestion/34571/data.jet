@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "What’s a beet?|What are beets?",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "If you don’t even know what a beet is, you’re not ready for the mind-blowing info on beets.com.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Найчастіше питання на www.nasinnia.in.ua",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "If you don’t even know what a beet is, you’re not ready for the mind-blowing info on beets.com.",
+      "t": "A",
+      "v": "473210_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "A FAQ question on www.beets.com",
+      "t": "A",
+      "v": "473208_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

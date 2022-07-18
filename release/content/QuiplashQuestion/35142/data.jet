@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Дивний заголовок на обкладинці <i>Барвінок</i>: 17 трюків для <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "An odd headline to see on the cover of <i>Cosmo</i>: 17 Tricks for <BLANK>",
+      "t": "A",
+      "v": "476422_1",
+      "n": "PromptAudio"
+    }
+  ]
+}

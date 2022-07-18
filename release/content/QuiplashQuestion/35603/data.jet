@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "you’re adopted|your adopted",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "If only he’d said you were adopted BEFORE you agreed to get up at 4 in the morning.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Ваша поїздка на рибалку з вашим батьком пройшла чудово, поки він не відклав вудку, повернув голову і не сказав <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "If only he’d said you were adopted BEFORE you agreed to get up at 4 in the morning.",
+      "t": "A",
+      "v": "480092_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "Your fishing trip with your father was going great until he set down his rod, turned his head and said <BLANK>",
+      "t": "A",
+      "v": "480090_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Garlic Breath Kisses|Crime|If fish and cheese had a baby|Grampa in the Morning|Used hockey pads|Santa’s B.O.",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "poop|shit|crap|poo",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "The poop candle couldn’t be the least popular. I distinctly remember it coming in number two.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Найменш популярний запах свічки",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "The poop candle couldn’t be the least popular. I distinctly remember it coming in number two.",
+      "t": "A",
+      "v": "542793_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The least popular scented candle smells like <BLANK>",
+      "t": "A",
+      "v": "542791_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

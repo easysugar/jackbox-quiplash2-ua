@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Insist on trading babies|Refer to yourself as a social influencer|Spend 3 hours teaching them the “best friend” handshake|Donate their mail to charity|Paint their house “parfait pink” as a surprise|Ask to borrow all their furniture for a few weeks",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Поганий спосіб потоваришувати з вашим новим сусідом",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "A bad way to make friends with your new next door neighbor",
+      "t": "A",
+      "v": "542776_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

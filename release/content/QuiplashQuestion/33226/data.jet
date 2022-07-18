@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Rear axle replacement|The “Impress Your Parents”|The Reverse Wacky Elbow|The Mobius Strip|The Perpetual Motion Machine|The “Outrun the polar bear”",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Назва руху в фігурному катанні, який ще не вдалось добре виконати",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The name of a figure skating move yet to be successfully pulled off",
+      "t": "A",
+      "v": "464996_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

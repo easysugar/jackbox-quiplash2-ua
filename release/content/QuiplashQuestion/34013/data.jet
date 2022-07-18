@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Check its ID|Hire a private detective to look into its background|See if it’s wearing black socks and sandals|Ask it about its grand-trees|Ask what its first album was",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Окрім підрахунку кіл, щоб дізнатися вік дерева можна <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "Besides counting rings, the other way you can tell the age of a tree is to <BLANK>",
+      "t": "A",
+      "v": "469790_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

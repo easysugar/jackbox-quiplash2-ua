@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Remember, if you can touch it while it’s spinning it’s good luck.|Now may be your last chance to tell Stacy how you feel.|It’s just wind, don’t worry about it.|The tornado will spare your house if you can solve its three riddles.|This is a bad day to be deeply in love with weather.|I recommend acting poorly at the grocery store",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Найгірша фраза, яку може сказати метеоролог під час наближення торнадо",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "A bad thing for a TV meteorologist to say during a tornado warning",
+      "t": "A",
+      "v": "472341_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

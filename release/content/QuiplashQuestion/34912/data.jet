@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "drugs|cocaine|heroin|drug dealing|dealing drugs|drug-dealing|selling drugs|meth",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "I knew he had something shady in that top hat.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Як персонаж з гри \"Монополія\" отримав своє багатство?",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "I knew he had something shady in that top hat.",
+      "t": "A",
+      "v": "475198_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "How the Monopoly guy really earned his wealth",
+      "t": "A",
+      "v": "475196_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

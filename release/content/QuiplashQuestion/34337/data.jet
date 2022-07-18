@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "Ben Franklin’s less talented brother Buddy Franklin|A dog who was a real jerk|The weirdo sitting next to you right now|That second grade teacher you didn’t like|Anybody named Corky|The inventor of peanut brittle",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Було б дуже дивно, якби зняли фільм про життя <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "It would be very surprising if they made a movie all about the life of <BLANK>",
+      "t": "A",
+      "v": "471989_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

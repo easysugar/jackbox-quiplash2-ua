@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "miniongitis|minion-gitis",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Miniongitis! Yes, sadly, miniongitis is incurable. You should always seek out a second op-minion.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Назва хвороби, що робить вас схожим на Міньйона",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "Miniongitis! Yes, sadly, miniongitis is incurable. You should always seek out a second op-minion.",
+      "t": "A",
+      "v": "470137_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The name of a disease that makes you look like a Minion",
+      "t": "A",
+      "v": "470135_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

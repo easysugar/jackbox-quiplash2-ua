@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "“Are you sure I have to wear pants?”|“You call this bread?!” (But hold up your napkin)|if the tablecloth is a big bib|if they offer any “Shark Week” specials|how to pronounce “wine”|what his screenplay’s about",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Найкращий спосіб розлютити офіціанта в ресторані — спитати <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The best way to make a waiter at a snooty restaurant angry is to keep asking <BLANK>",
+      "t": "A",
+      "v": "480226_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "wrestle",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Wrestling would be awesome. I refuse to vote for anyone who can’t get out of a figure four leglock.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Вибори були б набагато кращими, якби замість \"дебати\", ми б казали <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "Wrestling would be awesome. I refuse to vote for anyone who can’t get out of a figure four leglock.",
+      "t": "A",
+      "v": "472488_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "Elections would be a whole lot better if instead of debates, we made the candidates <BLANK>",
+      "t": "A",
+      "v": "472486_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

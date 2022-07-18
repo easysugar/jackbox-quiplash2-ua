@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "“Yes, you’ll break my fall nicely...”|“Which one of us was supposed to bring the parachute?”|“I have to admit, I forged my skydiving degree.”|“Wanna swig from my flask?”|“I’ll pull the cord, but first a short timeshare presentation.”|“Now that we’re alone, let’s get to know each other…”",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Те, що ви не захочете почути від інструктора зі стрибків з парашутом під час польоту",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "Something you don’t want to hear from the skydiving instructor strapped to your back",
+      "t": "A",
+      "v": "469565_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "The Taking Tree|The Taking it Back Tree|The Taking it All Back Tree",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Personally, I like a tree who takes what he wants. There’s nothing more attractive than confidence... What were we talking about?",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Дивне продовження дитячої книги <i>Крашений Лис</i>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "Personally, I like a tree who takes what he wants. There’s nothing more attractive than confidence... What were we talking about?",
+      "t": "A",
+      "v": "473532_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "An odd sequel to the children’s book, <i>The Giving Tree</i>",
+      "t": "A",
+      "v": "473530_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

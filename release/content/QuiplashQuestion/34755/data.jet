@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "melted",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Frosty didn’t melt, he’s right here! Oh wait. This is mashed potatoes with a carrot in it.",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Найстрашніша таємниця сніговика Олафа - це те, що він <BLANK>",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "Frosty didn’t melt, he’s right here! Oh wait. This is mashed potatoes with a carrot in it.",
+      "t": "A",
+      "v": "474383_1",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The dark secret of Frosty the Snowman is that he <BLANK>",
+      "t": "A",
+      "v": "474381_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

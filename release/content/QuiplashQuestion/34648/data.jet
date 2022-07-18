@@ -1,0 +1,50 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "false",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "What’s your house mimosa like?|Hate to be the guy whose bike I just totaled!|Can I get the wifi password?|Your scooters are cute|Yes, this will be the perfect place to open a hot yoga studio.|When’s the lacrosse match on?",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Найгірше, що можна сказати, коли заходиш до жорсткого байкерського бару",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "",
+      "t": "A",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "The worst thing to say as you enter a tough biker bar",
+      "t": "A",
+      "v": "473642_0",
+      "n": "PromptAudio"
+    }
+  ]
+}

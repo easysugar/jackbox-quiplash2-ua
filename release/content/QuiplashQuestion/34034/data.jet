@@ -1,0 +1,51 @@
+{
+  "fields": [
+    {
+      "t": "B",
+      "v": "true",
+      "n": "HasJokeAudio"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "StadiumAnswers"
+    },
+    {
+      "t": "S",
+      "v": "Holy Rollers",
+      "n": "Keywords"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Author"
+    },
+    {
+      "t": "S",
+      "v": "Holy Rollers! God yes!",
+      "n": "KeywordResponseText"
+    },
+    {
+      "t": "S",
+      "v": "Гарна назва для команди для роликового дербі, що складається з монахинь",
+      "n": "PromptText"
+    },
+    {
+      "t": "S",
+      "v": "",
+      "n": "Location"
+    },
+    {
+      "s": "Holy Rollers! God yes!",
+      "t": "A",
+      "v": "469897_0",
+      "n": "KeywordResponseAudio"
+    },
+    {
+      "s": "A good name for a roller derby team composed of nuns",
+      "t": "A",
+      "v": "469895_0",
+      "n": "PromptAudio"
+    }
+  ]
+}
