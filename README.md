@@ -20,4 +20,5 @@ Ukrainian translation for Quiplash 2 InterLASHional from Jackbox
 ## Скріншоти перекладу
 <img src="https://user-images.githubusercontent.com/38401622/180608153-ad8cd8ab-0297-45b2-810a-c4d917432254.png" alt="image" width="800"/>
 <img src="https://user-images.githubusercontent.com/38401622/180608257-4cf4b865-d003-4b46-a36f-5bc511216d98.png" alt="image" width="800"/>
-<img src="https://user-images.githubusercontent.com/38401622/180608270-1ab8b26a-9955-40aa-b16f-1bee936d91d5.png" alt="image" width="800"/>
+<img src="https://user-images.githubusercontent.com/38401622/180622948-f8e137e2-842e-44fc-a054-a1d1fcc3a754.png" alt="image" width="800"/>
+<img src="https://user-images.githubusercontent.com/38401622/180622959-c4fd53cc-a017-4f56-87ad-e5c985b998d0.png" alt="image" width="800"/>
