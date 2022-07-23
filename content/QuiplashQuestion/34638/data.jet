@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Something enthusiastic you would yell at a Smashmouth concert",
+      "s": "\"Я не здамся без <BLANK>\"",
       "t": "A",
       "v": "473574_0",
       "n": "PromptAudio"

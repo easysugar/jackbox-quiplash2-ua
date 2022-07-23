@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A mystery that Nancy Drew couldn’t solve: The Case of the <BLANK>",
+      "s": "Загадка, яку міс Марпл не змогла розгадати: Випадок <BLANK>",
       "t": "A",
       "v": "478939_0",
       "n": "PromptAudio"

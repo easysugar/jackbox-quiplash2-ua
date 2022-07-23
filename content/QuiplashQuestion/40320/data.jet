@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A rejected superhero vehicle: the <BLANK>mobile",
+      "s": "Видалений супергеройський транспорт: <BLANK>мобіль",
       "t": "A",
       "v": "543100_0",
       "n": "PromptAudio"

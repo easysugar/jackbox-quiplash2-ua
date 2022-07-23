@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You’ll realize you shouldn’t have picked up that hitchhiker when he says,“<BLANK>”",
+      "s": "Ви зрозуміли, що вам не слід було брати того автостопника, коли той сказав: \"<BLANK>\"",
       "t": "A",
       "v": "473308_0",
       "n": "PromptAudio"

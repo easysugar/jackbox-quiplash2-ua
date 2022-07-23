@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "It’s one thing to take his gold, but the best way to make a leprechaun mad is to <BLANK>",
+      "s": "Одна справа - забрати його золото, проте найкращий спосіб змусити лепрекона збожеволіти - це <BLANK>",
       "t": "A",
       "v": "475671_0",
       "n": "PromptAudio"

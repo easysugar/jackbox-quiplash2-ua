@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "What memory is <ANY PLAYER> suppressing?",
+      "s": "Про що замовчує <ANY PLAYER>?",
       "t": "A",
       "v": "477680_1",
       "n": "PromptAudio"

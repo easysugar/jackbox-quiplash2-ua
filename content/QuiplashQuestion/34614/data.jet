@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A really dumb round-table discussion would be about this topic",
+      "s": "Якщо ти <BLANK>, то буде біда",
       "t": "A",
       "v": "473429_0",
       "n": "PromptAudio"

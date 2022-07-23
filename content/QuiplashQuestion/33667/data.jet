@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Don’t talk to me before I’ve had my coffee and don’t touch me until I’ve had my <BLANK>",
+      "s": "Не розмовляйте зі мною до того, як я випью кави і не торкайтеся мене поки я не отримаю <BLANK>",
       "t": "A",
       "v": "467468_0",
       "n": "PromptAudio"

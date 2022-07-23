@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Заборонене імʼя для сосків",
+      "v": "Заборонене ім'я для сосків",
       "n": "PromptText"
     },
     {
@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A rejected name for nipples",
+      "s": "Заборонене ім'я для сосків",
       "t": "A",
       "v": "464333_0",
       "n": "PromptAudio"

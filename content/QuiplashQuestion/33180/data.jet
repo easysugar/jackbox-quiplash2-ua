@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Something every American would support is a national <BLANK> pipeline",
+      "s": "Кожен американець підтримав би національний трубопровід <BLANK>",
       "t": "A",
       "v": "464748_0",
       "n": "PromptAudio"

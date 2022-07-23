@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The most pointless volunteer work would be helping the <BLANK>",
+      "s": "Найбезглуздіша робота волонтерів може допомогти <BLANK>",
       "t": "A",
       "v": "473326_0",
       "n": "PromptAudio"

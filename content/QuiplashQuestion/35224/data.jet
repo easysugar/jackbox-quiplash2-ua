@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "If a job interviewer asks you “What’s your biggest weakness?,” always say <BLANK>",
+      "s": "Якщо на співбесіді вас питають: «Яка ваша найбільша слабкість?», завжди відповідайте <BLANK>",
       "t": "A",
       "v": "476862_0",
       "n": "PromptAudio"

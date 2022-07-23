@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A bouncy castle is cool, but a bouncy <BLANK> is just sad",
+      "s": "Надувний замок — це круто, але надувний <BLANK> — це просто сумно",
       "t": "A",
       "v": "477183_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Why’s the red panda so red?",
+      "s": "Чому червона панда така червона?",
       "t": "A",
       "v": "472983_0",
       "n": "PromptAudio"

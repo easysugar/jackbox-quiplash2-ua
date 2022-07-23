@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "An odd sequel to <i>James and the Giant Peach</i>: <i>James and the Giant <BLANK></i>",
+      "s": "Дивне продовження <i>Джек і бобове зерно</i>: <i>Джек і бобовий <BLANK></i>",
       "t": "A",
       "v": "463519_0",
       "n": "PromptAudio"

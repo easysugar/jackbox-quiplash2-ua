@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The worst gig for any truck driver would be delivering <BLANK>",
+      "s": "Найгірше, що може доставляти далекобійник, це <BLANK>",
       "t": "A",
       "v": "471293_0",
       "n": "PromptAudio"

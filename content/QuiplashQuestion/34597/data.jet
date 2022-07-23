@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A terrible name for a yacht: The S S <BLANK>",
+      "s": "Дурна назва для яхти",
       "t": "A",
       "v": "473341_0",
       "n": "PromptAudio"

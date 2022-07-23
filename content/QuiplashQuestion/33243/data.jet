@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "It’s a bird, it’s a plane, oh, wait, no. Nevermind, it’s just <BLANK>",
+      "s": "Це пташка. Це літак. А, хоча, не зважай. Це всього лише <BLANK>",
       "t": "A",
       "v": "465090_0",
       "n": "PromptAudio"

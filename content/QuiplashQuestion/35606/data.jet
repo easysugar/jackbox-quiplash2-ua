@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The name of a fast food restaurant where the workers don’t wear pants",
+      "s": "Назва ресторану швидкої їжі, в якому працівники не носять штанів",
       "t": "A",
       "v": "480105_0",
       "n": "PromptAudio"

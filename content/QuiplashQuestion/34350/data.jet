@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "<i>Edward Scissorhands</i> would have been a much different movie if it were called <i>Edward <BLANK>hands</i>",
+      "s": "<i>Едвард Руки-Ножиці</i> був би зовсім іншим фільмом, якби він називався <i>Едвард <BLANK></i>",
       "t": "A",
       "v": "472066_0",
       "n": "PromptAudio"

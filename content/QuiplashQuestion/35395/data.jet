@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You know you’re going crazy when you hear the Rice Krispies say “<BLANK>”",
+      "s": "Ти точно збожеволієш, якщо почуєш, як хтось каже \"<BLANK>\"",
       "t": "A",
       "v": "477932_0",
       "n": "PromptAudio"

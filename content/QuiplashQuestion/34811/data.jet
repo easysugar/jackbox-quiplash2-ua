@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You know you have a shady landlord when <BLANK>",
+      "s": "Ви розумієте, що ви поганий господар, коли <BLANK>",
       "t": "A",
       "v": "474661_0",
       "n": "PromptAudio"

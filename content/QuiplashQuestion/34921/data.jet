@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "After high school, kids get the book “Oh, the Places You’ll Go.” After college, they should get “Oh, the Places You’ll <BLANK>”",
+      "s": "Після середньої школи діти отримують книгу «Місця, куди ви поїдете». Після коледжу вони повинні отримати «Місця, які ви будете <BLANK>»",
       "t": "A",
       "v": "475241_0",
       "n": "PromptAudio"

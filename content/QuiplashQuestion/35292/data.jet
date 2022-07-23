@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "If Michigan is shaped like a hand, Texas should be shaped like a <BLANK>",
+      "s": "Якщо Мічиган має форму руки, Техас повинен мати форму <BLANK>",
       "t": "A",
       "v": "477203_0",
       "n": "PromptAudio"

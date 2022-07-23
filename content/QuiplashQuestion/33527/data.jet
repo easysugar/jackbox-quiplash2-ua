@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "This just in! In a stunning move, Bill Nye the Science Guy has given up his signature bow tie and instead will now wear <BLANK>",
+      "s": "Новини! Приголомшливим кроком Білл Най, науковець, відмовився від свого фірмового краватки-метелика і замість цього одягне <BLANK>",
       "t": "A",
       "v": "466710_0",
       "n": "PromptAudio"

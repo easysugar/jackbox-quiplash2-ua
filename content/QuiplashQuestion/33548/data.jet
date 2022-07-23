@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The anti-drug “Just Say No” campaign should be updated to the “<BLANK>” campaign",
+      "s": "Антинаркотична кампанія \"Просто скажи ні\" повинна бути оновлена до кампанії \"<BLANK>\"",
       "t": "A",
       "v": "466825_0",
       "n": "PromptAudio"

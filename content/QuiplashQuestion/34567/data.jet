@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Indoor skydiving makes a lot more sense than indoor <BLANK>",
+      "s": "Стрибки з парашутом у приміщенні мають набагато більше сенсу, ніж <BLANK> у приміщенні",
       "t": "A",
       "v": "473188_0",
       "n": "PromptAudio"

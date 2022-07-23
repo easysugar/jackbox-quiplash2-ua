@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Should you catch on fire, remember, “Stop, Drop, Roll, and then <BLANK>”",
+      "s": "Якщо ви спалахнули вогнем, то потрібно: \"зупинитись, впасти, покрутитись і <BLANK>\"",
       "t": "A",
       "v": "471221_0",
       "n": "PromptAudio"

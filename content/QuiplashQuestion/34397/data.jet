@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The name of restaurant that only serves Grade D meat",
+      "s": "Назва ресторану, який готує м'ясо лише третього сорту",
       "t": "A",
       "v": "472331_0",
       "n": "PromptAudio"

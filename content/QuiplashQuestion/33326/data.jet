@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A weird Tom Hanks/Meg Ryan movie: <i>Sleepless in <BLANK></i>",
+      "s": "Дивний фільм Тома Хенкса/Мег Раян: <i>Без сну в <BLANK>></i>",
       "t": "A",
       "v": "465574_0",
       "n": "PromptAudio"

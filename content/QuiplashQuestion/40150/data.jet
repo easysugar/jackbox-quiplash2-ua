@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You know there’s something sketchy about your accountant, when she asks to see your <BLANK>",
+      "s": "Ви знаєте, що з вашою бухгалтеркою щось не так, коли вона просить подивитись на <BLANK>",
       "t": "A",
       "v": "542761_0",
       "n": "PromptAudio"

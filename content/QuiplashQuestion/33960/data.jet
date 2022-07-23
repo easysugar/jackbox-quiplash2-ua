@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The worst carnival attraction: The <BLANK> Booth",
+      "s": "Найгірша забавка на карнавалі: Будка <BLANK>",
       "t": "A",
       "v": "469525_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A road sign that would cause you to turn around: “Watch out for <BLANK>”",
+      "s": "Дорожній знак, котрий змусить тебе розвернутися: \"Обережно, попереду <BLANK>\"",
       "t": "A",
       "v": "470404_0",
       "n": "PromptAudio"

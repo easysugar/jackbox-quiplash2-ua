@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A weird thing to hear from your grandpa: “I wish I had spent more time <BLANK>”",
+      "s": "Дивна річ, яку можна почути від вашого дідуся: \"Я хотів би більше часу витрачати на <BLANK>\"",
       "t": "A",
       "v": "476804_0",
       "n": "PromptAudio"

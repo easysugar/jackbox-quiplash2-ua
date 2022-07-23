@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The biggest problem with the last <i>Star Wars</i> movie",
+      "s": "Найбільша проблема останнього фільму <i>Зоряних війн</i>",
       "t": "A",
       "v": "472187_0",
       "n": "PromptAudio"

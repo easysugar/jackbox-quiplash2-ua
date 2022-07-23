@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A pullstring toy of <ANY PLAYER> would definitely say <BLANK>",
+      "s": "Якби у <ANY PLAYER> був папуга, він неодмінно казав би <BLANK>",
       "t": "A",
       "v": "475762_0",
       "n": "PromptAudio"

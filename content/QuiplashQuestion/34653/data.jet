@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "An interesting thing on Robocop’s job performance review: “Needs to work on <BLANK>”",
+      "s": "Цікава річ в огляді роботи Robocop: «Потрібно попрацювати над <BLANK>»",
       "t": "A",
       "v": "473673_0",
       "n": "PromptAudio"

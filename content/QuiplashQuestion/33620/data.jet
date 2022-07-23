@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The worst interrogation would have a good cop, a bad cop and a <BLANK> cop",
+      "s": "Найгірший допит мав би гарного копа, поганого копа та <BLANK> копа",
       "t": "A",
       "v": "467221_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Besides counting rings, the other way you can tell the age of a tree is to <BLANK>",
+      "s": "Окрім підрахунку кіл, щоб дізнатися вік дерева можна <BLANK>",
       "t": "A",
       "v": "469790_0",
       "n": "PromptAudio"

@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Вам обовʼязково потрібно <BLANK> перед тим, як одружитися",
+      "v": "Вам обов'язково потрібно <BLANK> перед тим, як одружитися",
       "n": "PromptText"
     },
     {
@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You should always <BLANK> before you get married",
+      "s": "Вам обов'язково потрібно <BLANK> перед тим, як одружитися",
       "t": "A",
       "v": "465319_0",
       "n": "PromptAudio"

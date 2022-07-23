@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A perplexing band would be Crosby, Stills, Nash, Young & <BLANK>",
+      "s": "Дивною групою були б Святослав Вакарчук, Олег Псюк, Руслани Лижичко та <BLANK>",
       "t": "A",
       "v": "476389_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Conspiracy alert! Aliens are real and they’re <BLANK>",
+      "s": "Увага, зрада! Прибульці справді існують, і вони <BLANK>",
       "t": "A",
       "v": "466110_0",
       "n": "PromptAudio"

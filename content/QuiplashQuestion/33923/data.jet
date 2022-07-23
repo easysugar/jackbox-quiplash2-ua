@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The only way out of Mississippi is to <BLANK>",
+      "s": "Єдиний спосіб вийти із Дніпра - це <BLANK>",
       "t": "A",
       "v": "469296_0",
       "n": "PromptAudio"

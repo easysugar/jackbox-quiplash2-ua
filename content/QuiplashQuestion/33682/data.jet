@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The Teenage Mutant Ninja Turtles should update their catchphrase from “Cowabunga!” to “<BLANK>!”",
+      "s": "Черепашки ніндзя мають змінити свою коронну фразу \"Кавабанга!\" на “<BLANK>!”",
       "t": "A",
       "v": "467552_0",
       "n": "PromptAudio"

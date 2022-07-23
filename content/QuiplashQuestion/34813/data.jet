@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "It’s sweet when grandma knits you a scarf. It’s really weird when she knits you <BLANK>",
+      "s": "Це мило, коли бабуся в/'яже вам шарф, але дивно, коли вона в/'яже <BLANK>",
       "t": "A",
       "v": "474671_0",
       "n": "PromptAudio"

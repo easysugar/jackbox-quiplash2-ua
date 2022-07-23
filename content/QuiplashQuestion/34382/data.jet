@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "In the future, America will change its name to <BLANK>",
+      "s": "У майбутньому, Америка змінить свою назву на <BLANK>",
       "t": "A",
       "v": "472256_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "WARNING: Never put <BLANK> into a Crock-Pot",
+      "s": "ПОПЕРЕДЖЕННЯ: Ніколи не кладіть <BLANK> в тиховарку",
       "t": "A",
       "v": "470080_0",
       "n": "PromptAudio"

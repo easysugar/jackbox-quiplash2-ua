@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You know the coffee shop barista is hitting on you when they ask “Would you like room for <BLANK>?”",
+      "s": "Ви знаєте, що бариста кав’ярні залицяється до вас, коли вони запитують: «Чи бажаєте ви місця для <BLANK>?»",
       "t": "A",
       "v": "478884_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "An event you would dominate at the Olympics: the 500-meter <BLANK>",
+      "s": "Подія, в якій ви б завжди перемагали на Олімпіаді: 500-метрове <BLANK>",
       "t": "A",
       "v": "474134_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "When you cough up blood you should be concerned. When you cough up <BLANK> you should be terrified",
+      "s": "Коли ви кашляєте кров'ю, ви повинні бути стурбовані. Коли ви кашляєте <BLANK>, ви повинні бути в жаху",
       "t": "A",
       "v": "475871_0",
       "n": "PromptAudio"

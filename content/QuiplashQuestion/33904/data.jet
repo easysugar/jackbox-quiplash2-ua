@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Your secret recipe for apple sauce is to simply <BLANK>",
+      "s": "Секретний рецепт яблучного пюре полягає в тому, щоб просто <BLANK>",
       "t": "A",
       "v": "468819_0",
       "n": "PromptAudio"

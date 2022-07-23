@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The employees at IKEA hate it when you <BLANK>",
+      "s": "Працівники Епіцентру ненавидять коли ти <BLANK>",
       "t": "A",
       "v": "467799_0",
       "n": "PromptAudio"

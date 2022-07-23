@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The best way to make a waiter at a snooty restaurant angry is to keep asking <BLANK>",
+      "s": "Найкращий спосіб розлютити офіціанта в ресторані — спитати <BLANK>",
       "t": "A",
       "v": "480226_0",
       "n": "PromptAudio"

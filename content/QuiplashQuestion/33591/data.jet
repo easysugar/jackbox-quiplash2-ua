@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A weird dad keeps all of his children’s <BLANK> as memories",
+      "s": "Найдивніший тато зберігає всі <BLANK> його дітей як спогади",
       "t": "A",
       "v": "467055_0",
       "n": "PromptAudio"

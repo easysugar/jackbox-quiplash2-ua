@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "What you’ve been searching for wasn’t inside you this whole time. It was in <BLANK>",
+      "s": "Те, що ви шукали, не було всередині вас весь цей час. Це було в <BLANK>",
       "t": "A",
       "v": "465821_0",
       "n": "PromptAudio"

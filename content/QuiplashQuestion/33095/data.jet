@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The scariest thing you can think of is <BLANK> riding <BLANK>",
+      "s": "Найстрашніша річ, яку ти можеш собі уявити це <BLANK> верхом на <BLANK>",
       "t": "A",
       "v": "464302_0",
       "n": "PromptAudio"

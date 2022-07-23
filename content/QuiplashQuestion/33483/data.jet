@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You know you got scammed when the puppy you bought at the pet store turns out to be <BLANK>",
+      "s": "Ви розумієте, що вас обманули, коли цуценя, якого ви купили в зоомагазині, виявляється <BLANK>",
       "t": "A",
       "v": "466472_0",
       "n": "PromptAudio"

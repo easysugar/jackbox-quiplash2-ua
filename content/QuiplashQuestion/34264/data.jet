@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "If you really listen hard, you’ll hear a seashell say this",
+      "s": "Якщо ви справді вслухаєтеся, ви почуєте, як мушля каже <BLANK>",
       "t": "A",
       "v": "471581_0",
       "n": "PromptAudio"

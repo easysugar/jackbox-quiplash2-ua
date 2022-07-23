@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Spell out the sound a fish hitting a person in the face makes",
+      "s": "Опишіть звук, який видає риба, що б'є людину в обличчя",
       "t": "A",
       "v": "475391_0",
       "n": "PromptAudio"

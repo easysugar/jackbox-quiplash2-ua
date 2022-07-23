@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The worst person to be on a plane with would constantly <BLANK>",
+      "s": "Найгірша людина, з якою слід побувати у літаку, зробила б <BLANK>\n",
       "t": "A",
       "v": "463574_0f",
       "n": "PromptAudio"

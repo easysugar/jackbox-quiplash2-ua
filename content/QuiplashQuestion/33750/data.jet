@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Remember, when buying a new home, always make sure the previous owner didn’t <BLANK>",
+      "s": "Пам/'ятайте: коли купуєте новий дім, завжди переконайтесь, що попередній власник не <BLANK>",
       "t": "A",
       "v": "467932_0",
       "n": "PromptAudio"

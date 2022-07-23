@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "What happens if you eat too many hot dogs?",
+      "s": "Що трапиться, якщо ви з'їсте дуже багато хот-догів?",
       "t": "A",
       "v": "473545_2",
       "n": "PromptAudio"

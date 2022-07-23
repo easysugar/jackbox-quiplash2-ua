@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A very lonely Saturday night is just sitting on the couch with <BLANK>",
+      "s": "Дуже самотня суботня ніч - це просто сидіння на дивані з <BLANK>",
       "t": "A",
       "v": "464420_0",
       "n": "PromptAudio"

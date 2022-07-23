@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "In your job, you don’t need a bulletproof vest, you need a <BLANK>proof vest",
+      "s": "На вашій роботі не буде необхідності у бронежилеті, але знадобиться <BLANK> пробивний жилет",
       "t": "A",
       "v": "474048_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "What word should never be followed by an exclamation mark?",
+      "s": "Після якого слова ніколи не потрібно ставити знак оклику? ",
       "t": "A",
       "v": "477118_0",
       "n": "PromptAudio"

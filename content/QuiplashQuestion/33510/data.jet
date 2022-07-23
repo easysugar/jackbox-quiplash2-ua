@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The new menu item at Taco Bell in 2040 will be Chicken <BLANK>",
+      "s": "Нова страва в МакДональдз у 2040",
       "t": "A",
       "v": "466613_0",
       "n": "PromptAudio"

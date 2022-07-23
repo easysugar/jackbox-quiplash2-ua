@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Bagels should change their name to <BLANK>",
+      "s": "Бублики мають перейменувати на <BLANK>",
       "t": "A",
       "v": "466631_0",
       "n": "PromptAudio"

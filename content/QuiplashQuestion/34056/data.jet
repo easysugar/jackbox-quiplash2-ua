@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The name of an exhibit you’d be surprised to see at an art museum",
+      "s": "Назва виставки, яка вас здивує у музеї мистецтв",
       "t": "A",
       "v": "470005_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "If you pull your uncle’s finger, he farts. If you push it, he <BLANK>",
+      "s": "Якщо ви потягнете палець дядька, він пукне. Якщо ви штовхнете його, він <BLANK>",
       "t": "A",
       "v": "475858_0",
       "n": "PromptAudio"

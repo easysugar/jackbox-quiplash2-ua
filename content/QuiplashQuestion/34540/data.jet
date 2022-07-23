@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You can tell your parents are glad to have you out of the house when they turn your room into a <BLANK>",
+      "s": "Ви впевнені, що ваші батьки раді тому, що ви вийшли з дому, якщо вони перетворять вашу кімнату на <BLANK>",
       "t": "A",
       "v": "473053_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Breaking news! Scientists have just discovered nature’s fiercest creature: the <BLANK> shark",
+      "s": "Термінові новини! Британські вчені щойно знайшли найлютішу тварину: <BLANK> акула",
       "t": "A",
       "v": "466186_0",
       "n": "PromptAudio"

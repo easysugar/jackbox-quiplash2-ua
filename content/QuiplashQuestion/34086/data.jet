@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A terrible name for a hotel: The <BLANK> Inn",
+      "s": "Жахлива назва для готелю",
       "t": "A",
       "v": "470155_0",
       "n": "PromptAudio"

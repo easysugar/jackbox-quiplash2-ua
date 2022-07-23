@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The worst donut in the world is filled with <BLANK>",
+      "s": "Найгірший пончик у світі наповнений <BLANK>",
       "t": "A",
       "v": "474053_0",
       "n": "PromptAudio"

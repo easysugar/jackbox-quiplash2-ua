@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The most embarrassing Google search <ANY PLAYER> has entered",
+      "s": "Найбільший постидний пошук в Google у <ANY PLAYER>",
       "t": "A",
       "v": "476642_0",
       "n": "PromptAudio"

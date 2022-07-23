@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The next way airlines will probably try to save money: <BLANK>",
+      "s": "Напевно, авіакомпанії спробують заощадити гроші на <BLANK>",
       "t": "A",
       "v": "466908_0",
       "n": "PromptAudio"

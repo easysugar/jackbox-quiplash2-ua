@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You know it’s time to lose weight when your gut blocks your view of <BLANK>",
+      "s": "Ти розумієш, що прийшов час схуднути, коли помічаєш, що твоє пузо закриває вид на <BLANK>",
       "t": "A",
       "v": "546252_1",
       "n": "PromptAudio"

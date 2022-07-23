@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A poor follow-up to the X-rated classic <i>Debbie Does Dallas</i> would be <i>Debbie <BLANK></i>",
+      "s": "Жалюгідне продовження невмирущої класики <i>Мачуха та син</i> називалося б <i>Мачуха та <BLANK></i>",
       "t": "A",
       "v": "467216_0",
       "n": "PromptAudio"

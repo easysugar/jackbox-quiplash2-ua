@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Everybody looks cool on a motorcycle except for <BLANK>",
+      "s": "Всі виглядають крутими на мотоциклі, окрім <BLANK>",
       "t": "A",
       "v": "473404_0",
       "n": "PromptAudio"

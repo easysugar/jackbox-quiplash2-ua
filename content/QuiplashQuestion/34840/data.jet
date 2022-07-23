@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You know your company is going out of business when you show up to work and notice <BLANK>",
+      "s": "Ви знаєте, що ваша компанія збанкрутує, якщо ви прийдете на роботу й скажете <BLANK>",
       "t": "A",
       "v": "474806_0",
       "n": "PromptAudio"

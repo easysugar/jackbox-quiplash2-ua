@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Forget carpooling. They should build a special driving lane just for <BLANK>",
+      "s": "Забудьте про спільне використання автомобіля. Вони повинні побудувати спеціальну дорогу для <BLANK>",
       "t": "A",
       "v": "469396_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "An easy way to start a fire is to rub <BLANK> together",
+      "s": "Найлегший спосіб розпалити вогонь - це терти <BLANK> разом",
       "t": "A",
       "v": "468086_0",
       "n": "PromptAudio"

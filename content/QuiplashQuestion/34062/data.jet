@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The booth nobody visits at the job fair is for a business called <BLANK>",
+      "s": "Стенд, який ніхто не відвідує на ярмарку вакансій, призначений для бізнесу під назвою <BLANK>",
       "t": "A",
       "v": "470035_0",
       "n": "PromptAudio"

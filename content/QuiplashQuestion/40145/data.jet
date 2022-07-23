@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A rejected, less scary, title for the movie <i>Jaws</i>",
+      "s": "Забраковано не страшний заголовок для фільму <i>Щелепи</i>",
       "t": "A",
       "v": "542736_0",
       "n": "PromptAudio"

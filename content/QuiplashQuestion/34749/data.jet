@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The perfect man is tall, dark and <BLANK>",
+      "s": "Ідеальний чоловік високий, темний і <BLANK>",
       "t": "A",
       "v": "474351_0",
       "n": "PromptAudio"

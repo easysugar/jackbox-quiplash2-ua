@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The dark secret of Frosty the Snowman is that he <BLANK>",
+      "s": "Найстрашніша таємниця сніговика Олафа - це те, що він <BLANK>",
       "t": "A",
       "v": "474381_0",
       "n": "PromptAudio"

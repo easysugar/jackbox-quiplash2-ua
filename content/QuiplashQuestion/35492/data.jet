@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A great way to spice up baseball is the rule Three Strikes and You’re <BLANK>",
+      "s": "Чудовий спосіб додати жару в бейсбол – це правило «Три удари, і ти <BLANK>»",
       "t": "A",
       "v": "478849_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "What are the three greatest words in the English language?",
+      "s": "Які три слова є найпрекраснішими в українській мові? ",
       "t": "A",
       "v": "475326_0",
       "n": "PromptAudio"

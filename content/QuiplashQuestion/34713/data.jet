@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Tip: Take your large movie theater beverage cup home and use it for <BLANK>",
+      "s": "Порада: візьміть свою велику чашку для напоїв додому з кінотеатру і використовуйте її для <BLANK>",
       "t": "A",
       "v": "474083_0",
       "n": "PromptAudio"

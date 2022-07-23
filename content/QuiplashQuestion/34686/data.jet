@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A rejected section of the King James Bible: the part where Jesus <BLANK>",
+      "s": "Відкинутий розділ Біблії короля Якова: частина, де Ісус <BLANK>",
       "t": "A",
       "v": "473921_0",
       "n": "PromptAudio"

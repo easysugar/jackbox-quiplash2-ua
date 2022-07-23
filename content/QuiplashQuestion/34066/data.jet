@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Імʼя, яке дав Ван Гог своєму другому вуху",
+      "v": "Ім'я, яке дав Ван Гог своєму другому вуху",
       "n": "PromptText"
     },
     {
@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The nickname Van Gogh gave his remaining ear",
+      "s": "Ім'я, яке дав Ван Гог своєму другому вуху",
       "t": "A",
       "v": "470055_0",
       "n": "PromptAudio"

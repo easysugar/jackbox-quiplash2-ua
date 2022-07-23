@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You know you have a messed-up kid when they give you a crayon drawing of <BLANK>",
+      "s": "Ви знаєте, що у вашої дитини незвичайна фантазія, коли вона дає вам листок, на якому намальований <BLANK>",
       "t": "A",
       "v": "477238_0",
       "n": "PromptAudio"

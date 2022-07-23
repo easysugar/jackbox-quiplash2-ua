@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "When the stork isn’t delivering babies, he <BLANK>",
+      "s": "Коли лелека не доставляє малюків, він <BLANK>",
       "t": "A",
       "v": "465865_0",
       "n": "PromptAudio"

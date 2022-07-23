@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A great way to make friends in a steam room is to remove your towel and <BLANK>",
+      "s": "Чудовий спосіб потоваришувати в сауні - це зняти ваш рушник і <BLANK>",
       "t": "A",
       "v": "473133_0",
       "n": "PromptAudio"

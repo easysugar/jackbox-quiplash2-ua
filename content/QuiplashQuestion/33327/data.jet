@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The Eiffel Tower would be a lot cooler if it had <BLANK>",
+      "s": "Софійський собор був би набагато крутішим, якби <BLANK>",
       "t": "A",
       "v": "465579_0",
       "n": "PromptAudio"

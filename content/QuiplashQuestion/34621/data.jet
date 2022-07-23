@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "In the near future, scientists will discover that dinosaurs actually <BLANK>",
+      "s": "У найближчому майбутньому вчені виявлять, що саме динозаври <BLANK>",
       "t": "A",
       "v": "473466_0",
       "n": "PromptAudio"

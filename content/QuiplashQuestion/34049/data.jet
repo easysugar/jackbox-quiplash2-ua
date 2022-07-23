@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A rejected first-draft line from <i>The Shining</i>: “Here’s <BLANK>!”",
+      "s": "Перша скасована репліка із <i>Сяйва</i>: \"Це <BLANK>!\"",
       "t": "A",
       "v": "469970_0",
       "n": "PromptAudio"

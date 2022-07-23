@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A weird button in James Bond’s car is simply labeled <BLANK>",
+      "s": "Дивна кнопка в автомобілі Джеймса Бонда просто позначена <BLANK>",
       "t": "A",
       "v": "467698_0",
       "n": "PromptAudio"

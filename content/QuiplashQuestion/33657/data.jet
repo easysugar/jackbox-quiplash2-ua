@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A troubling thing to notice on your shirt tag: 2% <BLANK>",
+      "s": "Неприємна річ, яку можна помітити на бирці на сорочці: 2% <BLANK>",
       "t": "A",
       "v": "467415_0",
       "n": "PromptAudio"

@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "When confronted by a mountain lion, stay calm, stand as tall as possible, and <BLANK>",
+      "s": "Коли ви зіткнетеся з гірським левом, зберігайте спокій, встаньте якомога вище та <BLANK>",
       "t": "A",
       "v": "542861_0",
       "n": "PromptAudio"

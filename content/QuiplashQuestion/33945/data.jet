@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Як пʼяний кролик присоромив би себе",
+      "v": "Як п'яний кролик присоромив би себе",
       "n": "PromptText"
     },
     {
@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "How a drunk rabbit would embarrass himself",
+      "s": "Як п'яний кролик присоромив би себе",
       "t": "A",
       "v": "469420_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "To be authentic, New York style pizza has to have lots and lots of <BLANK>",
+      "s": "Щоб бути справжньою, піца в українському стилі повинна мати багато-багато <BLANK>",
       "t": "A",
       "v": "473118_0",
       "n": "PromptAudio"

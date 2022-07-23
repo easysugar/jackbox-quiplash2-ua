@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "When on the subway, it’s polite to give up your seat to <BLANK>",
+      "s": "У метро дуже ввічливо поступитися своїм місцем <BLANK>",
       "t": "A",
       "v": "473078_0",
       "n": "PromptAudio"

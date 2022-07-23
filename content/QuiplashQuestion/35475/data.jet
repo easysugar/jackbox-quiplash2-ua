@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A great way to make a dolphin mad is to <BLANK>",
+      "s": "Гарний спосіб розлютити дельфіна - це <BLANK>",
       "t": "A",
       "v": "478656_0",
       "n": "PromptAudio"

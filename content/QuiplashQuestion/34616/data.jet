@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Hands down, the worst roommate would be <BLANK>",
+      "s": "Навіть не кажи, що твій сусід поганий, бо є <BLANK>",
       "t": "A",
       "v": "473439_0",
       "n": "PromptAudio"

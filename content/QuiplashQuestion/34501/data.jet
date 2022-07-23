@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The worst office has a view of <BLANK>",
+      "s": "Найгірший офіс має вигляд <BLANK>",
       "t": "A",
       "v": "472862_0",
       "n": "PromptAudio"

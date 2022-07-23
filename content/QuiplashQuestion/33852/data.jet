@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A rejected title in the <i>Magic School Bus</i> series: <i>The Magic School Bus Goes to <BLANK></i>",
+      "s": "Відхилена назва в серії <i>Magic School Bus</i>: <i>The Magic School Bus їде до <BLANK></i>",
       "t": "A",
       "v": "468467_0",
       "n": "PromptAudio"

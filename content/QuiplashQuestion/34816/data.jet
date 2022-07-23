@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You know you’re old when you’re at a bar and the bartender asks you <BLANK>",
+      "s": "Ти розумієш, що постарів, коли ти знаходишся в барі, й бармен питає тебе <BLANK>",
       "t": "A",
       "v": "474686_0",
       "n": "PromptAudio"

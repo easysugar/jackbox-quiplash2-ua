@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Every airline flight should come with a free <BLANK>",
+      "s": "У кожному авіарейсі повинно бути безкоштовне <BLANK>",
       "t": "A",
       "v": "465314_1",
       "n": "PromptAudio"

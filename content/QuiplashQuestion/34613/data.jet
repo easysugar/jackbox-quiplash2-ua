@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A car that would never sell is the Honda <BLANK>",
+      "s": "Машина, яку ти ніколи не продаси - ЗАЗ <BLANK>",
       "t": "A",
       "v": "473424_0",
       "n": "PromptAudio"

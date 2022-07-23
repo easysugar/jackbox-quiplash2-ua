@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Finding money in an old pair of pants is great, but what’s even better is discovering <BLANK>",
+      "s": "Знайти гроші в старих штанях - гарно, проте набагато краще знайти <BLANK>",
       "t": "A",
       "v": "474476_0",
       "n": "PromptAudio"

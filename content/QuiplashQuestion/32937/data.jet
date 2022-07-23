@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Петрик Пʼяточкін виріс і отримав нове прізвисько: Петрик <BLANK>",
+      "v": "Петрик П'яточкін виріс і отримав нове прізвисько: Петрик <BLANK>",
       "n": "PromptText"
     },
     {
@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Dennis the Menace grew up and got the new nickname: Dennis the <BLANK>",
+      "s": "Петрик П'яточкін виріс і отримав нове прізвисько: Петрик <BLANK>",
       "t": "A",
       "v": "463407_0",
       "n": "PromptAudio"

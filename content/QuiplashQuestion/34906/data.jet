@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "In your opinion, scientists should be working around the clock to clone <BLANK>",
+      "s": "На вашу думку, вчені повинні працювати цілодобово, щоб клонувати <BLANK>",
       "t": "A",
       "v": "475166_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A political slogan if a bear was running for President: “Make America <BLANK> Again”",
+      "s": "Політичний слоган для ведмедя, який балотується в президенти: \"Зробіть Україну знову <BLANK>\"",
       "t": "A",
       "v": "474336_0",
       "n": "PromptAudio"

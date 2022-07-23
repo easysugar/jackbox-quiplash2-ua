@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A sign that you’re really frugal: instead of buying paper towels, you <BLANK>",
+      "s": "Ознака того, що ви дуже ощадливий: замість купівлі туалетного паперу, ви <BLANK>",
       "t": "A",
       "v": "473223_0",
       "n": "PromptAudio"

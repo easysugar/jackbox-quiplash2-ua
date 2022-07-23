@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A bad way to start your valedictorian speech would be “Ladies and gentlemen, I <BLANK>”",
+      "s": "Поганий спосіб розпочати прощальний виступ: \"Пані та панове, я <BLANK>\"",
       "t": "A",
       "v": "475646_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The 1960’s <i>Batman</i> was so goofy, one episode saw Batman and Robin fighting <BLANK>",
+      "s": "<i>Бетмен</i> 1960-х років був таким дурним, що в одному з епізодів Бетмен і Робін билися <BLANK>",
       "t": "A",
       "v": "476697_0",
       "n": "PromptAudio"

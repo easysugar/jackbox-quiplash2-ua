@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Alfred may know Batman’s secret identity, but the biggest secret he keeps is <BLANK>",
+      "s": "Альфред знає таємну особистість Бетмена, але його найбільший секрет - це <BLANK>",
       "t": "A",
       "v": "464568_0",
       "n": "PromptAudio"

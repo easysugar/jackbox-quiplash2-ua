@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "An idea for a really weird business: Rent-a-<BLANK>",
+      "s": "Ідея для дуже кепського бізнесу: оренда <BLANK>",
       "t": "A",
       "v": "468136_0",
       "n": "PromptAudio"

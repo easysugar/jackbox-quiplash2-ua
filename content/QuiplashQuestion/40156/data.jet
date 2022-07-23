@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The least popular scented candle smells like <BLANK>",
+      "s": "Найменш популярний запах свічки",
       "t": "A",
       "v": "542791_0",
       "n": "PromptAudio"

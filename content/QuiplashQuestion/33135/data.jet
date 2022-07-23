@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Some solid life advice: Never trust <BLANK>",
+      "s": "Слушна життєва порада: ніколи не довіряйте <BLANK>",
       "t": "A",
       "v": "464523_1",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You get the weirdest image results when you search for <BLANK>",
+      "s": "Ви отримуєте найдивніші результати пошуку зображень, коли шукаєте <BLANK>",
       "t": "A",
       "v": "464603_0",
       "n": "PromptAudio"

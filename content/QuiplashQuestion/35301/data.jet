@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "If he missed his shot, Luke Skywalker’s back-up plan to destroy the Death Star was to <BLANK>",
+      "s": "Якби Люк Скайвокер промахнувся, його запасним планом як знищити Зірку Смерті було <BLANK>",
       "t": "A",
       "v": "477248_0",
       "n": "PromptAudio"

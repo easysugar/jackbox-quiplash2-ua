@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The title of a <i>Goosebumps</i> book that was never published",
+      "s": "Книга, яка ніколи не була опублікована: \"Тіні забутих <BLANK>\"",
       "t": "A",
       "v": "463995_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The one thing that never sells at costume shops is a mask of <BLANK>",
+      "s": "Єдина річ, яка ніколи не продається в магазинах одягу - це <BLANK>",
       "t": "A",
       "v": "467344_0",
       "n": "PromptAudio"

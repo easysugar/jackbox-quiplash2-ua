@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A good replacement for Sea World’s whale shows would be <BLANK>",
+      "s": "Гарною заміною риб в океанаріумі було б <BLANK>",
       "t": "A",
       "v": "469780_0",
       "n": "PromptAudio"

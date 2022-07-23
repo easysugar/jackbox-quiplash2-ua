@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Forget hamster balls, modern hamsters get around in hamster <BLANK>",
+      "s": "Забудьте про м’ячики для хом’яків, сучасні хом’яки пересуваються в <BLANK>",
       "t": "A",
       "v": "542801_0",
       "n": "PromptAudio"

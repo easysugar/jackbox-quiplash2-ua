@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The weirdest designated parking spot would be a parking spot specifically for <BLANK>",
+      "s": "Найдивніше місце паркування - це місце призначене для <BLANK>",
       "t": "A",
       "v": "473248_0",
       "n": "PromptAudio"

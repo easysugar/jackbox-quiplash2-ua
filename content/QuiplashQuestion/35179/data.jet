@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The sequel to <i>Shakespeare in Love</i> would be called <i>Shakespeare in <BLANK></i>",
+      "s": "Сиквел фільму <i>З Росії з любов'ю</i> буде називатися <i>З Росії з <BLANK></i>",
       "t": "A",
       "v": "476622_0",
       "n": "PromptAudio"

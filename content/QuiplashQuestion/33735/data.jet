@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A word that shouldn’t come before “jerky”",
+      "s": "Слово, яке не повинно стояти перед «ривок»",
       "t": "A",
       "v": "467845_0",
       "n": "PromptAudio"

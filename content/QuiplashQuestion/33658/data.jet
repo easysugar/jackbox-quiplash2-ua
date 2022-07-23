@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Найбезглуздіша річ для привʼязування камери GoPro",
+      "v": "Найбезглуздіша річ для прив'язування камери GoPro",
       "n": "PromptText"
     },
     {
@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The most pointless thing to strap a GoPro camera on",
+      "s": "Найбезглуздіша річ для прив'язування камери GoPro",
       "t": "A",
       "v": "467420_0",
       "n": "PromptAudio"

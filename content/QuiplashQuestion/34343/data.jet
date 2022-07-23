@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "У торговому центрі Києва є таємний памʼятник, який називається <BLANK>",
+      "v": "У торговому центрі Києва є таємний пам'ятник, який називається <BLANK>",
       "n": "PromptText"
     },
     {
@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "There’s a secret monument in the Washington Mall called the <BLANK> Monument",
+      "s": "У торговому центрі Києва є таємний пам'ятник, який називається <BLANK>",
       "t": "A",
       "v": "472028_0",
       "n": "PromptAudio"

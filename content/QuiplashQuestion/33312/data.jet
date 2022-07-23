@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The worst bachelor party would involve <BLANK>",
+      "s": "Найгірша вечірка випускників може втягнути <BLANK>",
       "t": "A",
       "v": "465504_1",
       "n": "PromptAudio"

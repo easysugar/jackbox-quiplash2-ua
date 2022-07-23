@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Life hack! If you don’t have a wine rack, simply use a <BLANK>",
+      "s": "Лайфхак! Якщо у вас нема стійки для вина, просто використайте <BLANK>",
       "t": "A",
       "v": "468326_1",
       "n": "PromptAudio"

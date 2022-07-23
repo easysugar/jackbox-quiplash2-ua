@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A rule every gardener eventually learns: Never <BLANK> the cabbage",
+      "s": "Правило, яке зрештою вивчає кожен садівник: ніколи <BLANK> капусту",
       "t": "A",
       "v": "471807_0",
       "n": "PromptAudio"

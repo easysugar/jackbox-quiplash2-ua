@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "If <ANY PLAYER> had an underground club, the secret password would probably be <BLANK>",
+      "s": "Якби <ANY PLAYER> мав підпільний клуб, в ньому був би пароль <BLANK>",
       "t": "A",
       "v": "477584_2",
       "n": "PromptAudio"

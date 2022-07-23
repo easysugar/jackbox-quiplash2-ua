@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A weird thing for a President to announce: I did not have <BLANK> with that woman",
+      "s": "Дивна річ для оголошення Президентом: Я ніколи не мав <BLANK> з цією жінкою",
       "t": "A",
       "v": "474711_0",
       "n": "PromptAudio"

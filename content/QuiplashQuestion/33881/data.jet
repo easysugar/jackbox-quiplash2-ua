@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "To become a billionaire in mere days, simply <BLANK>",
+      "s": "Щоб стати мільярдером за лічені дні, потрібно просто <BLANK>",
       "t": "A",
       "v": "468636_0",
       "n": "PromptAudio"

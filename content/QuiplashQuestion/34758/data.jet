@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "In the future, robots will do everything for us except <BLANK>",
+      "s": "У майбутньому роботи будуть робити для нас все, окрім <BLANK>",
       "t": "A",
       "v": "474396_0",
       "n": "PromptAudio"

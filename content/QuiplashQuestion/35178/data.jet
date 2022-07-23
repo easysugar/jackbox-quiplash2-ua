@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A sign you never see: Honk if you’re <BLANK>",
+      "s": "Знак, який ви ніде не бачите: посигнальте, якщо ви <BLANK>",
       "t": "A",
       "v": "476617_0",
       "n": "PromptAudio"

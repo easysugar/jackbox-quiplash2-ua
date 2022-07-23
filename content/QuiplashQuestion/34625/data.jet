@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A new baseball tradition you would like to see would be the seventh-inning <BLANK>",
+      "s": "Слово \"гараж\" вже не в тренді, зараз в тренді слово <BLANK>",
       "t": "A",
       "v": "473489_0",
       "n": "PromptAudio"

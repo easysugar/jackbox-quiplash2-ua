@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A good sign your mechanic is ripping you off is that he says you need a new <BLANK>",
+      "s": "Ви розумієте, що механік хоче вас обібрати, коли він каже про купівлю нового <BLANK>",
       "t": "A",
       "v": "472311_1",
       "n": "PromptAudio"

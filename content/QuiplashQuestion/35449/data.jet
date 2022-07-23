@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "If you want a really effective scarecrow, make sure it resembles <BLANK>",
+      "s": "Якщо ви хочете справді ефективне опудало, переконайтеся, що воно схоже на <BLANK> ",
       "t": "A",
       "v": "478382_0",
       "n": "PromptAudio"

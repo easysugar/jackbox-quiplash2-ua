@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You can tell you’re on a bad cruise when the captain announces “If you look off the starboard side, you will see <BLANK>”",
+      "s": "Ви можете сказати, що круїз такий собі, коли капітан оголошує: «Якщо ви подивитеся на правий борт, ви побачите <BLANK>»",
       "t": "A",
       "v": "473168_0",
       "n": "PromptAudio"

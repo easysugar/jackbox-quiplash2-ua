@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Some shower heads have settings like “Massage” and “Pulse.” But never, ever set your shower head to <BLANK>",
+      "s": "Деякі душові насадки мають такі параметри, як «Масаж» і «Пульс». Але ніколи, ніколи не встановлюйте насадку для душу в параметр <BLANK>",
       "t": "A",
       "v": "466271_0",
       "n": "PromptAudio"

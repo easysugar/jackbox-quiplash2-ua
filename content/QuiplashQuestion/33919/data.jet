@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The worst spring break would feature the wet <BLANK> contest",
+      "s": "На найгірших весняних канікулах був би конкурс <BLANK>",
       "t": "A",
       "v": "469276_1",
       "n": "PromptAudio"

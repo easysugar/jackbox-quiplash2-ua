@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A great way to save electricity is to <BLANK>",
+      "s": "Гарний спосіб зберегти електроенергію - це <BLANK>",
       "t": "A",
       "v": "465624_0",
       "n": "PromptAudio"

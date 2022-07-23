@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Don’t throw out those used chopsticks! They can be used to <BLANK>",
+      "s": "Не викидайте ці палички для їжі! Їх ще можна використати для <BLANK>",
       "t": "A",
       "v": "466309_0",
       "n": "PromptAudio"

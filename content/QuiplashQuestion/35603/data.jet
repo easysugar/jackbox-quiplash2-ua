@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Your fishing trip with your father was going great until he set down his rod, turned his head and said <BLANK>",
+      "s": "Ваша поїздка на рибалку з вашим батьком пройшла чудово, поки він не відклав вудку, повернув голову і не сказав <BLANK>",
       "t": "A",
       "v": "480090_0",
       "n": "PromptAudio"

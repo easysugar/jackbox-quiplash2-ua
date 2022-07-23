@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A campaign slogan guaranteed to get you elected president",
+      "s": "Люди гарантовано оберуть вас у президенти, якщо у вас буде гасло: <BLANK>",
       "t": "A",
       "v": "464458_0",
       "n": "PromptAudio"

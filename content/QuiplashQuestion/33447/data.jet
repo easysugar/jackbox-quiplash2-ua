@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A new, exciting rule for <i>Monopoly</i>: pass Go and collect <BLANK>",
+      "s": "Нове, захоплююче правило для <i>Монополії</i>: пройдіть Старт і отримайте <BLANK>",
       "t": "A",
       "v": "466289_0",
       "n": "PromptAudio"

@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The quickest way to get out of conversation is to look at the clock and say <BLANK>",
+      "s": "Найшвидший спосіб покинути розмову - подивитися на годинник і сказати <BLANK>",
       "t": "A",
       "v": "476677_0",
       "n": "PromptAudio"

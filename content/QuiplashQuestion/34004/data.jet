@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "If you want to survive prison, walk up to the scariest prisoner and <BLANK>",
+      "s": "Якщо ви хочете вижити у в'язниці, підійдіть до найстрашнішого ув'язненого і <BLANK>",
       "t": "A",
       "v": "469745_0",
       "n": "PromptAudio"

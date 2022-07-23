@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The reason everyone loves Tom Hanks is <BLANK>",
+      "s": "Всі люблять Ектора, тому що <BLANK>",
       "t": "A",
       "v": "474291_0",
       "n": "PromptAudio"

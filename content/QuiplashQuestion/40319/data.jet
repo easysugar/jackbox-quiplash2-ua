@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A wise old saying your grandma taught you: “Look before you <BLANK>”",
+      "s": "Мудре прислів'я, якому навчала тебе твоя бабуся: \"Дивись перед тим, як <BLANK>\"",
       "t": "A",
       "v": "543095_0",
       "n": "PromptAudio"

@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Elections would be a whole lot better if instead of debates, we made the candidates <BLANK>",
+      "s": "Вибори були б набагато кращими, якби замість \"дебати\", ми б казали <BLANK>",
       "t": "A",
       "v": "472486_0",
       "n": "PromptAudio"

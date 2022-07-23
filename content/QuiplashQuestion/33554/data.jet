@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "You know you’ve found your soulmate when you look them in the eye and they say <BLANK>",
+      "s": "Ви дізнаєтесь, що знайшли соулмейта, коли подивитесь йому в очі та він скаже <BLANK>",
       "t": "A",
       "v": "466858_0",
       "n": "PromptAudio"

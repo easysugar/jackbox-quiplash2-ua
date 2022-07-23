@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Don’t reply to a restaurant job listing that reads, “Must love <BLANK>”",
+      "s": "Біжіть, якщо під час влаштування на роботу чуєте <BLANK>",
       "t": "A",
       "v": "473774_0",
       "n": "PromptAudio"

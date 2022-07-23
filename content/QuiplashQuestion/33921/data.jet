@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Remember, when dining at a sushi restaurant, you should never, ever <BLANK>",
+      "s": "Пам'ятайте, що коли ви вечеряєте у суші-ресторані, ніколи не <BLANK>",
       "t": "A",
       "v": "469286_0",
       "n": "PromptAudio"

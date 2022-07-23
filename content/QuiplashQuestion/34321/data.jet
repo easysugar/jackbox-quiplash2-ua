@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Why is that guy yelling in the painting <i>The Scream</i>?",
+      "s": "Чому людина кричить в картині <i>Крик</i>?",
       "t": "A",
       "v": "471906_0",
       "n": "PromptAudio"

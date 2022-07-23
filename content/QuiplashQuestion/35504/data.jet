@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A terrible reply to the text “U up?”",
+      "s": "Погана відповідь на питання \"Ви вже прокинулися?\"",
       "t": "A",
       "v": "478909_0",
       "n": "PromptAudio"

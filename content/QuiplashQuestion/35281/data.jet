@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Yelling fire in a crowded movie theater is bad, but even worse is yelling <BLANK>",
+      "s": "Кричати \"пожежа\" в переповненому кінотеатрі - погано, але ще гірше кричати <BLANK>",
       "t": "A",
       "v": "477148_0",
       "n": "PromptAudio"

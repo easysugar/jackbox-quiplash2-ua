@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "New rule: You should automatically be arrested if you <BLANK>",
+      "s": "Нове правило: ви повинні бути автоматично заарештовані, якщо ви <BLANK>",
       "t": "A",
       "v": "465133_0",
       "n": "PromptAudio"

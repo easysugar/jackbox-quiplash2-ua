@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "What NASA doesn’t tell us is that for years, they’ve observed <BLANK> through a powerful telescope",
+      "s": "NASA ніколи не кажуть нам, що протягом багатьох років вони спостерігали <BLANK> через потужний телескоп",
       "t": "A",
       "v": "475591_0",
       "n": "PromptAudio"

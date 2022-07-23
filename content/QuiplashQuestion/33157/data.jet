@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A really crappy young adult novel would feature a teenage girl falling in love with a <BLANK>",
+      "s": "Справді кепський роман для дорослих: дівчинка, яка закохується в <BLANK>",
       "t": "A",
       "v": "464633_0",
       "n": "PromptAudio"

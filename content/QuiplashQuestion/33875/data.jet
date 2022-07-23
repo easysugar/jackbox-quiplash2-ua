@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Your immediate thought as you’re attacked by an orangutan",
+      "s": "Перша думка, коли вас атакує орангутанг",
       "t": "A",
       "v": "468600_0",
       "n": "PromptAudio"

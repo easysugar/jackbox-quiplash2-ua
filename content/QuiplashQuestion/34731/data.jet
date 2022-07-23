@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "A bad excuse for being late to your own wedding: “Sorry, I was <BLANK>”",
+      "s": "Погане виправдання за запізнення на власне весілля: \"Пробачте, я був <BLANK>\"",
       "t": "A",
       "v": "474189_0",
       "n": "PromptAudio"

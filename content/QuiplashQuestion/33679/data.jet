@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "The dumbest use of science would be to clone a <BLANK>",
+      "s": "Найтупіше використання науки - це спроба клонувати <BLANK>",
       "t": "A",
       "v": "467531_0",
       "n": "PromptAudio"

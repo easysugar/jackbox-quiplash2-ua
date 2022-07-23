@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "It would be awesome if you could grow <BLANK> in a garden",
+      "s": "Це було б неймовірно, якби була змога вирощувати <BLANK> в саду",
       "t": "A",
       "v": "473283_0",
       "n": "PromptAudio"

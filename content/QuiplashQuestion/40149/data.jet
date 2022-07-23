@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "First-draft movie line: “Go ahead. Make my <BLANK>”",
+      "s": "Рядок із поганого сценарію для фільму: «Вперед. Зробити мій <BLANK>”",
       "t": "A",
       "v": "542756_0",
       "n": "PromptAudio"
