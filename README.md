@@ -1,6 +1,4 @@
 # jackbox-quiplash2-ua
-Ukrainian translation for Quiplash 2 InterLASHional from Jackbox
-
 Перед вами український переклад гри Жартлист 2 Міжнародний (Quiplash 2 InterLASHional).  
 У цьому перекладі ми намагалися перекласти усе і адаптувати усі жарти під українські реалії. Тож, зацініть, що вийшло!
 
