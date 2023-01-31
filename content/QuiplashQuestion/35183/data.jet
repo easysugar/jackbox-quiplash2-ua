@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Найбільший постидний пошук в Google у <ANY PLAYER>",
+      "v": "Найбільш ганебний запит, який <ANY PLAYER> вбивав у Google",
       "n": "PromptText"
     },
     {
@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Найбільший постидний пошук в Google у <ANY PLAYER>",
+      "s": "Найбільш ганебний запит, який <ANY PLAYER> вбивав у Google",
       "t": "A",
       "v": "476642_0",
       "n": "PromptAudio"

@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Відхилена назва в серії <i>Magic School Bus</i>: <i>The Magic School Bus їде до <BLANK></i>",
+      "v": "Назва скасованої серії <i>Уроків тітоньки Сови</i>",
       "n": "PromptText"
     },
     {
@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Відхилена назва в серії <i>Magic School Bus</i>: <i>The Magic School Bus їде до <BLANK></i>",
+      "s": "Назва скасованої серії <i>Уроків тітоньки Сови</i>",
       "t": "A",
       "v": "468467_0",
       "n": "PromptAudio"

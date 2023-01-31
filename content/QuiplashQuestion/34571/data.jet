@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Найчастіше питання на www.nasinnia.in.ua",
+      "v": "Найбільш поширенні запитання на www.nasinnia.in.ua",
       "n": "PromptText"
     },
     {
@@ -42,7 +42,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Найчастіше питання на www.nasinnia.in.ua",
+      "s": "Найбільш поширенні запитання на www.nasinnia.in.ua",
       "t": "A",
       "v": "473208_1",
       "n": "PromptAudio"

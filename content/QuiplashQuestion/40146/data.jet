@@ -27,7 +27,7 @@
     },
     {
       "t": "S",
-      "v": "Назва книги колишнього розробника My Little Pony",
+      "v": "Назва книги колишнього творця My Little Pony",
       "n": "PromptText"
     },
     {
@@ -41,7 +41,7 @@
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Назва книги колишнього розробника My Little Pony",
+      "s": "Назва книги колишнього творця My Little Pony",
       "t": "A",
       "v": "542741_0",
       "n": "PromptAudio"
