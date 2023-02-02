@@ -1,7 +1,5 @@
 # jackbox-quiplash2-ua
-[![Crowdin](https://badges.crowdin.net/jackbox-quiplash-2-ua/localized.svg)](https://crowdin.com/project/jackbox-quiplash-2-ua)
-
-Перед вами український переклад гри Жартлист 2 Міжнародний (Quiplash 2 InterLASHional).  
+Перед вами український переклад гри Сміхрясь 2 МіжСМІХціональний (Quiplash 2 InterLASHional).  
 У цьому перекладі ми намагалися перекласти усе і адаптувати усі жарти під українські реалії. Тож, зацініть, що вийшло!
 
 ## Статус перекладу
