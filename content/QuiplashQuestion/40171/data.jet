@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "sex|intercourse",
+      "v": "сексу|кексу|траху|зносин|трахання|статевого акту",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "I guess I kind of pitched you a softball there, didn’t I?",
+      "v": "Думаю, я сам дав вам привід це написати, правда ж?",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "I guess I kind of pitched you a softball there, didn’t I?",
+      "s": "Думаю, я сам дав вам привід це написати, правда ж?",
       "t": "A",
       "v": "542868_0",
       "n": "KeywordResponseAudio"

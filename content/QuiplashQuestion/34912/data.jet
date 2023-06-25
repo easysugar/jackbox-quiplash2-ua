@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "drugs|cocaine|heroin|drug dealing|dealing drugs|drug-dealing|selling drugs|meth",
+      "v": "наркотики|кокаїн|героїн|продаж наркотиків|торгівля наркотиками|продавав наркотики|торгував наркотиками",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "I knew he had something shady in that top hat.",
+      "v": "Я знав, що він щось ховає у своєму циліндрі.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "I knew he had something shady in that top hat.",
+      "s": "Я знав, що він щось ховає у своєму циліндрі.",
       "t": "A",
       "v": "475198_0",
       "n": "KeywordResponseAudio"

@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "your death|your own death|you dying|how you’re going to die",
+      "v": "вашої смерті|мертвого вас|мертвої вас|моменту вашої смерті|вашого трупа|твого трупа|твоєї смерті|вас мертвого|тебе мертвого|тебе мертву|тебе мертвої|мертвого тебе|мертвої тебе|моменту твоєї смерті",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "This crayon drawing of my death would be useful if I could just figure out what was killing me. Is that a knife? A weird banana? Learn to draw, kid!",
+      "v": "Цей малюнок моєї смерті мав би більше сенсу, якби я міг розібрати, чим це там мене вбивають. Це що, ніж? Дивний банан? Малювати навчись, дитя!",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "This crayon drawing of my death would be useful if I could just figure out what was killing me. Is that a knife? A weird banana? Learn to draw, kid!",
+      "s": "Цей малюнок моєї смерті мав би більше сенсу, якби я міг розібрати, чим це там мене вбивають. Це що, ніж? Дивний банан? Малювати навчись, дитя!",
       "t": "A",
       "v": "477240_0",
       "n": "KeywordResponseAudio"

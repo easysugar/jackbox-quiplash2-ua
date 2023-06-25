@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Jackbox|Jackbox Games|You Don’t Know Jack|YDKJ|Jellyvision|Fibbage|Quiplash|Drawful|The Jackbox Party Pack 3|The Jackbox Party Pack|Jackbox Party Pack",
+      "v": "Джекбокс|Джекбоксу|Jackbox|Jackbox Games|Jellyvision|Маючнюха|Маячнюхи|Сміхрясь|Сміхрясі|Малювач|Малювача|The Jackbox Party Pack 3|The Jackbox Party Pack|Jackbox Party Pack",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Wait, you wouldn’t buy a sexy Jackbox calendar? Wish I’d known that before I shaved my bikini area.",
+      "v": "Стоп, в сенсі, ви б не купили сексі календар з чоловіками із Джекбоксу? Могли б раніше мені сказати, тоді не довелося б голитися в зоні бікіні. Я ж типу... кілька годин на це витратив!",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Wait, you wouldn’t buy a sexy Jackbox calendar? Wish I’d known that before I shaved my bikini area.",
+      "s": "Стоп, в сенсі, ви б не купили сексі календар з чоловіками із Джекбоксу? Могли б раніше мені сказати, тоді не довелося б голитися в зоні бікіні. Я ж типу... кілька годин на це витратив!",
       "t": "A",
       "v": "471191_0",
       "n": "KeywordResponseAudio"

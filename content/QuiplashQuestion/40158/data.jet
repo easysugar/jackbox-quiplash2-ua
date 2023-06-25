@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "hoverboards|hover boards|hover balls",
+      "v": "моноколесі",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Yeah and with all that hovering they don’t get any exercise. *sigh* This is the hamster segway all over again.",
+      "v": "Здається, я вже навіть бачив збір на це для ЗСУ.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Yeah and with all that hovering they don’t get any exercise. *sigh* This is the hamster segway all over again.",
+      "s": "Здається, я вже навіть бачив збір на це для ЗСУ.",
       "t": "A",
       "v": "542803_1",
       "n": "KeywordResponseAudio"

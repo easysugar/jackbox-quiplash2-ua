@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "blanket",
+      "v": "трусів",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "It’s hard to declare a winner in a wet blanket contest since the contestants always quit half-way through.",
+      "v": "Доволі важко оголошувати переможця, якщо всі учасники намочили труси ще вночі.",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "На найгірших весняних канікулах був би конкурс <BLANK>",
+      "v": "У найгіршому літньому таборі був би конкурс мокрих <BLANK>",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "It’s hard to declare a winner in a wet blanket contest since the contestants always quit half-way through.",
+      "s": "Доволі важко оголошувати переможця, якщо всі учасники намочили труси ще вночі.",
       "t": "A",
       "v": "469278_0",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "На найгірших весняних канікулах був би конкурс <BLANK>",
+      "s": "У найгіршому літньому таборі був би конкурс мокрих <BLANK>",
       "t": "A",
       "v": "469276_1",
       "n": "PromptAudio"

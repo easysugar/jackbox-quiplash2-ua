@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "always disappears|always disappearing|disappears|keeps disappearing",
+      "v": "завжди зникає|зникає|надалі зникає|постійно зникає|продовжує зникати",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Sure, he may disappear every now and then, but he more than makes up for it with all the coins he finds behind your ear.",
+      "v": "Звісно, він може зникати час від часу, але він з лишком компенсує це всіма монетками, що він знаходить у тебе за вухом.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Sure, he may disappear every now and then, but he more than makes up for it with all the coins he finds behind your ear.",
+      "s": "Звісно, він може зникати час від часу, але він з лишком компенсує це всіма монетками, що він знаходить у тебе за вухом.",
       "t": "A",
       "v": "478775_0",
       "n": "KeywordResponseAudio"

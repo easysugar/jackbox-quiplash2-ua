@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "lasty|last-y|lastee",
+      "v": "Останька|Останній|Останько",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "C’mon Lasty! C’mon! *sigh* Why didn’t I bet on Firsty??",
+      "v": "Ну ж бо, Останько! Ну ж бо! *видихає* Ну чому я не поставив на Першачку??",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "C’mon Lasty! C’mon! *sigh* Why didn’t I bet on Firsty??",
+      "s": "Ну ж бо, Останько! Ну ж бо! *видихає* Ну чому я не поставив на Першачку??",
       "t": "A",
       "v": "474528_0",
       "n": "KeywordResponseAudio"

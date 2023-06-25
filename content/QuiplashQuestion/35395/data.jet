@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Snap Crackle KILL|Snap Crackle MURDER",
+      "v": "чоловіком|дружиною|хлопцем|дівчиною",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "That would be crazy because the only cereal that makes you want to kill someone is Grape Nuts.",
+      "v": "Правильно, бо вони почнуть вас обговорювати, зійдуться, а ви лишитесь самі, як я у 2019.",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "Ти точно збожеволієш, якщо почуєш від когось \"<BLANK>\"",
+      "v": "Ніколи не приходьте на перше побачення зі своїм <BLANK>",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "That would be crazy because the only cereal that makes you want to kill someone is Grape Nuts.",
+      "s": "Правильно, бо вони почнуть вас обговорювати, зійдуться, а ви лишитесь самі, як я у 2019.",
       "t": "A",
       "v": "477934_0",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Ти точно збожеволієш, якщо почуєш від когось \"<BLANK>\"",
+      "s": "Ніколи не приходьте на перше побачення зі своїм <BLANK>",
       "t": "A",
       "v": "477932_0",
       "n": "PromptAudio"

@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "dildo|dildos|dildoes",
+      "v": "ділдо|ділдак|фалоімітатор",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "That’s not where food goes.",
+      "v": "Гей, не варто туди їжу пхати.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "That’s not where food goes.",
+      "s": "Гей, не варто туди їжу пхати.",
       "t": "A",
       "v": "475643_1",
       "n": "KeywordResponseAudio"

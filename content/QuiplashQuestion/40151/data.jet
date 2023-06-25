@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "must love dogs",
+      "v": "звір|звір у ліжку|звір в ліжку|звір у сексі|звір в сексі",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Hey, at least he’s housebroken. Mostly.",
+      "v": "Ні, раз на місяць не рахується.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Hey, at least he’s housebroken. Mostly.",
+      "s": "Ні, раз на місяць не рахується.",
       "t": "A",
       "v": "542768_0",
       "n": "KeywordResponseAudio"

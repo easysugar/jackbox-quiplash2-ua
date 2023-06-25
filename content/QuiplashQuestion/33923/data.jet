@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "die",
+      "v": "померти|здохнути|відкинути копита|вмерти|сконати|загинути|дати дуба|подохнути",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Actually, if you die in Mississippi, you’re both dead AND in Missippi.",
+      "v": "Насправді, якщо ви помрете у Житомирі, тоді ви одночасно і в халепі, і в Житомирі.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Actually, if you die in Mississippi, you’re both dead AND in Missippi.",
+      "s": "Насправді, якщо ви помрете у Житомирі, тоді ви одночасно і в халепі, і в Житомирі.",
       "t": "A",
       "v": "469298_0",
       "n": "KeywordResponseAudio"

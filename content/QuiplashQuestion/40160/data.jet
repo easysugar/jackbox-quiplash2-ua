@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "time machine|a time machine|a TARDIS|a T.A.R.D.I.S.|a delorean|the delorean",
+      "v": "машина часу|машини часу|подорож у часі|тардіс|делоріан|де лоріан|ділоріан|ді лоріан",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "If time travel where real, my future self would have come back to stop me from hosting this game for the second time.",
+      "v": "Якби подорожі в часі справді існували, Я з майбутнього повернувся б та сказав би собі припинити бути ведучим цієї гри. Двічі.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "If time travel where real, my future self would have come back to stop me from hosting this game for the second time.",
+      "s": "Якби подорожі в часі справді існували, Я з майбутнього повернувся б та сказав би собі припинити бути ведучим цієї гри. Двічі.",
       "t": "A",
       "v": "542813_1",
       "n": "KeywordResponseAudio"

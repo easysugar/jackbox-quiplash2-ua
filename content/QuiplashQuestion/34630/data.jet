@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "air",
+      "v": "повітря",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Bottled air? They tried to sell me that when I went SCUBA diving but I didn’t fall for it.",
+      "v": "Повітря у пляшках? Мені намагалися його продати, коли я займався дайвінгом, та я не купився.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Bottled air? They tried to sell me that when I went SCUBA diving but I didn’t fall for it.",
+      "s": "Повітря у пляшках? Мені намагалися його продати, коли я займався дайвінгом, та я не купився.",
       "t": "A",
       "v": "473521_1",
       "n": "KeywordResponseAudio"

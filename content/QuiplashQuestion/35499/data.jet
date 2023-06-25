@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "penis|my penis|dick|my dick|vagina|my vagina|pussy|my pussy",
+      "v": "потрахались|секс|трах|зайнялися сексом|коїтус|переспали",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Just a reminder: make sure to get clear consent before dipping your genitals into someone’s beverage.",
+      "v": "Вираз \"райська насолода\" щойно заграв для мене новими фарбами.",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "Ти розумієш, що бариста до тебе залицяється, коли <BLANK>",
+      "v": "Що НАСПРАВДІ зробили Адам та Єва, щоб їх вигнали з Райського саду?",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "Just a reminder: make sure to get clear consent before dipping your genitals into someone’s beverage.",
+      "s": "Вираз \"райська насолода\" щойно заграв для мене новими фарбами.",
       "t": "A",
       "v": "478886_1",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Ти розумієш, що бариста до тебе залицяється, коли <BLANK>",
+      "s": "Що НАСПРАВДІ зробили Адам та Єва, щоб їх вигнали з Райського саду?",
       "t": "A",
       "v": "478884_0",
       "n": "PromptAudio"

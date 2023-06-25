@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "booty bar",
+      "v": "бар піастри|піастри",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Booty Bar?, huh? Looks like you just parroted the most common answer to this prompt. Get it? Parroted? (sfx: buzzer) Whoops, I just parroted the most common response to your response.",
+      "v": "Бар \"Піастри\"? Схоже, ви зараз спапужили найпоширенішу відповідь до цього завдання. Зрозуміло, так? Спапужили? (звук сирени) Ой, тепер і я спапужив найпоширенішу відповідь на вашу відповідь.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Booty Bar?, huh? Looks like you just parroted the most common answer to this prompt. Get it? Parroted? (sfx: buzzer) Whoops, I just parroted the most common response to your response.",
+      "s": "Бар \"Піастри\"? Схоже, ви зараз спапужили найпоширенішу відповідь до цього завдання. Зрозуміло, так? Спапужили? (звук сирени) Ой, тепер і я спапужив найпоширенішу відповідь на вашу відповідь.",
       "t": "A",
       "v": "465170_0f",
       "n": "KeywordResponseAudio"

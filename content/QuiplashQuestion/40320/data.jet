@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "butt|buttmobile",
+      "v": "срака|срако|сракомобіль",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "The buttmobile, huh? Well at least it runs on natural gas.",
+      "v": "Сракомобіль, га? Ну, принаймні, він на натуральному газі працює.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "The buttmobile, huh? Well at least it runs on natural gas.",
+      "s": "Сракомобіль, га? Ну, принаймні, він на натуральному газі працює.",
       "t": "A",
       "v": "543102_0",
       "n": "KeywordResponseAudio"

@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "vomit|throw up|puke|barf",
+      "v": "пиво|горілку|вино|алкоголь|самогон|бухло|випити|алко",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "“You’ll puke in the alley / You’ll puke in the shower / You’ll puke on Ms. Mulligan’s prize-winning flowers” *sigh* Those were the days.",
+      "v": "Але не питайте, які брошурки роздають на пенсії. І не питайте, звідки я це знаю.",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "У школі нам давали брошурки «Ким я хочу стати». В універах варто роздавати брошурки «<BLANK>».",
+      "v": "У школі нам давали брошурки «Як обрати професію?». В універах варто роздавати брошурки «Як обрати <BLANK>?».",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "“You’ll puke in the alley / You’ll puke in the shower / You’ll puke on Ms. Mulligan’s prize-winning flowers” *sigh* Those were the days.",
+      "s": "Але не питайте, які брошурки роздають на пенсії. І не питайте, звідки я це знаю.",
       "t": "A",
       "v": "475243_0",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "У школі нам давали брошурки «Ким я хочу стати». В універах варто роздавати брошурки «<BLANK>».",
+      "s": "У школі нам давали брошурки «Як обрати професію?». В універах варто роздавати брошурки «Як обрати <BLANK>?».",
       "t": "A",
       "v": "475241_0",
       "n": "PromptAudio"

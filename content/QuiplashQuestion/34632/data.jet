@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "The Taking Tree|The Taking it Back Tree|The Taking it All Back Tree",
+      "v": "не гальмуй|не тормозь|не тормози|їдь без гальм|не пригальмовуй",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Personally, I like a tree who takes what he wants. There’s nothing more attractive than confidence... What were we talking about?",
+      "v": "Можливо, він просто любить шоколадні батончики. Або йому доплачують за рекламу... Не гальмуй, кіткатонуй! Чи як там?",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "Дивне продовження дитячої книги <i>Фарбований Лис</i>",
+      "v": "Погана порада від інструктора по водінню",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "Personally, I like a tree who takes what he wants. There’s nothing more attractive than confidence... What were we talking about?",
+      "s": "Можливо, він просто любить шоколадні батончики. Або йому доплачують за рекламу... Не гальмуй, кіткатонуй! Чи як там?",
       "t": "A",
       "v": "473532_0",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Дивне продовження дитячої книги <i>Фарбований Лис</i>",
+      "s": "Погана порада від інструктора по водінню",
       "t": "A",
       "v": "473530_0",
       "n": "PromptAudio"

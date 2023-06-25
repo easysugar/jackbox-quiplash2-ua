@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Hi I’m Dale|I’m Dale",
+      "v": "Здоров, я Юлік|Привіт, я Юлік|Я Юлік|Вітаю, я Юлік",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Classic Dale. Always politely introducing himself. What a jerk.",
+      "v": "Типовий Юлік. Завжди ввічливо представляється. Ото довбень, а?",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Classic Dale. Always politely introducing himself. What a jerk.",
+      "s": "Типовий Юлік. Завжди ввічливо представляється. Ото довбень, а?",
       "t": "A",
       "v": "468220_0",
       "n": "KeywordResponseAudio"

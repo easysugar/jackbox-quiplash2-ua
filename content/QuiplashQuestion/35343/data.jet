@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "down your pants|in your pants|your pants|my pants",
+      "v": "в штани|в кишені|в шорти|у штани|у кишені|у шорти|в мої штати|в твої штани|у мої штани|у твої штани|у мої кишені|у твої кишені|в мої кишені|в твої кишені|у мої шорти|у твої гори|в мої шорти|в твої шорти",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "If putting picnic food down your pants is so wrong, then I guess you don’t want a slice of this delicious watermelon I’ve been keeping warm all day. More for me.",
+      "v": "Якщо класти їжу з пікніка в штани так кепсько, то, схоже, ви не схочете цей смачнючий шматок помідорки, яку я тримав у теплі цілий день. Мені більше буде.",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "Найгірша страва на святковому столі",
+      "v": "Найгірше місце, куди можна зняти шашлик із шампура",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "If putting picnic food down your pants is so wrong, then I guess you don’t want a slice of this delicious watermelon I’ve been keeping warm all day. More for me.",
+      "s": "Якщо класти їжу з пікніка в штани так кепсько, то, схоже, ви не схочете цей смачнючий шматок помідорки, яку я тримав у теплі цілий день. Мені більше буде.",
       "t": "A",
       "v": "477562_0",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Найгірша страва на святковому столі",
+      "s": "Найгірше місце, куди можна зняти шашлик із шампура",
       "t": "A",
       "v": "477560_0",
       "n": "PromptAudio"

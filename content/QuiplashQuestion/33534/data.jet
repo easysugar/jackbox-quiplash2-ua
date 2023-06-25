@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Mona",
+      "v": "Я|Це я",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Ya know, there are no right or wrong answers in Quiplash. Except for this one. Mona was the boss.",
+      "v": "Гаразд, якщо до нас прийдуть маски-шоу, я скажу, що ви тут головні.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Ya know, there are no right or wrong answers in Quiplash. Except for this one. Mona was the boss.",
+      "s": "Гаразд, якщо до нас прийдуть маски-шоу, я скажу, що ви тут головні.",
       "t": "A",
       "v": "466748_0",
       "n": "KeywordResponseAudio"

@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "poop|shit|crap|poo",
+      "v": "гівно|гімно|какуля|какашки|гімна|гівна|какуль|какульок|какашок|фекалії|фекалій|кал|калу",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "The poop candle couldn’t be the least popular. I distinctly remember it coming in number two.",
+      "v": "Гімняна свічка не може бути найменш популярною. Я точно пам'ятаю, що вона була на другому місці.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "The poop candle couldn’t be the least popular. I distinctly remember it coming in number two.",
+      "s": "Гімняна свічка не може бути найменш популярною. Я точно пам'ятаю, що вона була на другому місці.",
       "t": "A",
       "v": "542793_1",
       "n": "KeywordResponseAudio"

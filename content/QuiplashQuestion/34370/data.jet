@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "No Jar Jar|No Jar-Jar|No Jarjar",
+      "v": "Нема Джар Джару|Нема Джар Джара|Немає Джар Джару|Немає Джар Джара|Нема Джарджару|Нема Джарджара|Немає Джарджару|Немає Джарджара|Де Джар Джар|Де Джарджар",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Don’t worry, sport. Jar Jar went to live on a special farm where he can run and play with all the other world’s worst ideas.",
+      "v": "Та не хвилюйтесь ви, народ. Джар Джар пішов жити на своїй особистій фермі, де він може гратися усіма найгіршими у світі ідеями.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Don’t worry, sport. Jar Jar went to live on a special farm where he can run and play with all the other world’s worst ideas.",
+      "s": "Та не хвилюйтесь ви, народ. Джар Джар пішов жити на своїй особистій фермі, де він може гратися усіма найгіршими у світі ідеями.",
       "t": "A",
       "v": "472189_0",
       "n": "KeywordResponseAudio"

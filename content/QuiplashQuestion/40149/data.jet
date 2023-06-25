@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "bed",
+      "v": "титанік",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "(Eastwood voice) “Go ahead. Make my bed. I’m having a lovely time in this colonial bed and breakfast by the way. Punk.”",
+      "v": "А ще оркестр і скелет Дікапріо. Доволі багато цікавинок, я вам скажу.",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "Рядок із поганого сценарію для фільму: «Вперед. Зроби мені <BLANK>”",
+      "v": "Круїз точно невдалий, якщо капітан оголошує: \"Погляньте праворуч, там ви можете побачити <BLANK>\"",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "(Eastwood voice) “Go ahead. Make my bed. I’m having a lovely time in this colonial bed and breakfast by the way. Punk.”",
+      "s": "А ще оркестр і скелет Дікапріо. Доволі багато цікавинок, я вам скажу.",
       "t": "A",
       "v": "542758_1",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Рядок із поганого сценарію для фільму: «Вперед. Зроби мені <BLANK>”",
+      "s": "Круїз точно невдалий, якщо капітан оголошує: \"Погляньте праворуч, там ви можете побачити <BLANK>\"",
       "t": "A",
       "v": "542756_0",
       "n": "PromptAudio"

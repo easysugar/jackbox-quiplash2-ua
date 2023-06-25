@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Johnny Dip",
+      "v": "флешку|флешок|флешки",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Mmm... johnny dip. Just dip your johnny in the dip.. oh, wait, you mean the dip is FROM Johnny. Oh, that’s even worse.",
+      "v": "Бо однією піснею Стапана Гіги можна забити усю ГІГАбітну флешку.",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "Що Джонні Депп, ймовірно, приніс би на твою вечірку",
+      "v": "Чого боїться Степан Гіга?",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "Mmm... johnny dip. Just dip your johnny in the dip.. oh, wait, you mean the dip is FROM Johnny. Oh, that’s even worse.",
+      "s": "Бо однією піснею Стапана Гіги можна забити усю ГІГАбітну флешку.",
       "t": "A",
       "v": "464475_0",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Що Джонні Депп, ймовірно, приніс би на твою вечірку",
+      "s": "Чого боїться Степан Гіга?",
       "t": "A",
       "v": "464473_0",
       "n": "PromptAudio"

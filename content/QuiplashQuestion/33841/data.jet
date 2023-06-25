@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "hive hunters",
+      "v": "Міняю бджолу|МастерБджола|Хата на бджолу|Кохана, ми вбиваємо бджіл|Кохана ми вбиваємо бджіл|Бджоли мають талант|Я соромлюсь свого меду",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Hive Hunters is so fake. Most of those hives aren’t even for sale!",
+      "v": "Не підкидуйте ідей для СТБ! А то ще почнеться...",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Hive Hunters is so fake. Most of those hives aren’t even for sale!",
+      "s": "Не підкидуйте ідей для СТБ! А то ще почнеться...",
       "t": "A",
       "v": "468414_0",
       "n": "KeywordResponseAudio"

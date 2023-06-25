@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "rich|1%",
+      "v": "багатим|мажорам|багатіям|багатим людям|куркулям|багачам|капіталістам|товстосумам|заможним людям|мільйонерам|мільярдерам",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Fine, don’t help the rich. But don’t come crying to them when you need a name for your new museum wing.",
+      "v": "Добре, не допомагайте багатим. Але не плачтеся, коли не буде на честь кого назвати нове крило вашого музею.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Fine, don’t help the rich. But don’t come crying to them when you need a name for your new museum wing.",
+      "s": "Добре, не допомагайте багатим. Але не плачтеся, коли не буде на честь кого назвати нове крило вашого музею.",
       "t": "A",
       "v": "473328_0",
       "n": "KeywordResponseAudio"

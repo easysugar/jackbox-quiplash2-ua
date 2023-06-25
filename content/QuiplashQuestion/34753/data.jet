@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "cowgirl|cow girl",
+      "v": "наїзниця|вершниця",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "This is also a really boring ANSWER.",
+      "v": "Це ще й дійсно нудна ВІДПОВІДЬ.",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "Назва дуже нудної пози у сексі",
+      "v": "Назва дійсно нудної пози у сексі - зворотна <BLANK>",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "This is also a really boring ANSWER.",
+      "s": "Це ще й дійсно нудна ВІДПОВІДЬ.",
       "t": "A",
       "v": "474373_0",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Назва дуже нудної пози у сексі",
+      "s": "Назва дійсно нудної пози у сексі - зворотна <BLANK>",
       "t": "A",
       "v": "474371_0",
       "n": "PromptAudio"

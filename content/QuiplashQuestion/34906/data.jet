@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "me",
+      "v": "мене",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "One of you is all I can handle.",
+      "v": "Я з одним \"тобою\" ледь раду даю.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "One of you is all I can handle.",
+      "s": "Я з одним \"тобою\" ледь раду даю.",
       "t": "A",
       "v": "475168_1",
       "n": "KeywordResponseAudio"

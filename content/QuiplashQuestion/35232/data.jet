@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Inside Out",
+      "v": "Навиворіт",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Inside out? You should see a doctor. But finish this game first.",
+      "v": "Навиворіт? Вам краще проконсультуватися з лікарем. Тільки після того, як дограєте.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Inside out? You should see a doctor. But finish this game first.",
+      "s": "Навиворіт? Вам краще проконсультуватися з лікарем. Тільки після того, як дограєте.",
       "t": "A",
       "v": "476904_1",
       "n": "KeywordResponseAudio"

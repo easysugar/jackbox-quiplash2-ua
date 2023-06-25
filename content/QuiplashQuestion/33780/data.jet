@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "love of peanuts|peanut obsession|eating peanuts|obsessed with peanuts|way into peanuts",
+      "v": "розвожу бджіл|розводити бджіл|заводити бджіл|завів бджіл|завести бджіл|зайнятись медом|займатись медом|мед|бджоли|виробляти мед|виробляю мед|стати пасічником|став пасічником|пасічник|бути пасічником",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "You don’t have to be the 39th Commander in Chief to love peanuts. The filbert. Now THAT’S a presidential nut.",
+      "v": "Вам не треба бути президентом, щоб займатися солодощами. Хоча чекайте-но... Хм...",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "Ознака того, що ви повільно перетворюєтеся в Кучму",
+      "v": "Ознака того, що ви повільно перетворюєтеся в Ющенка",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "You don’t have to be the 39th Commander in Chief to love peanuts. The filbert. Now THAT’S a presidential nut.",
+      "s": "Вам не треба бути президентом, щоб займатися солодощами. Хоча чекайте-но... Хм...",
       "t": "A",
       "v": "468078_0",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Ознака того, що ви повільно перетворюєтеся в Кучму",
+      "s": "Ознака того, що ви повільно перетворюєтеся в Ющенка",
       "t": "A",
       "v": "468076_0",
       "n": "PromptAudio"

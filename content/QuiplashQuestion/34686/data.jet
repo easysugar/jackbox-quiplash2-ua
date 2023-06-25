@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "farts|farted",
+      "v": "пукає|пукав|пукнув",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Sure it was rude, but give him a break, it was his LAST supper!",
+      "v": "Звісно, прозвучало грубо, але залиште вже його в спокої! То була його осТАЙНА вечеря!",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Sure it was rude, but give him a break, it was his LAST supper!",
+      "s": "Звісно, прозвучало грубо, але залиште вже його в спокої! То була його осТАЙНА вечеря!",
       "t": "A",
       "v": "473923_0",
       "n": "KeywordResponseAudio"

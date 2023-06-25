@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "miniongitis|minion-gitis",
+      "v": "кашельтошка|кашель-тошка|кашлетошка|кашле-тошка",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Miniongitis! Yes, sadly, miniongitis is incurable. You should always seek out a second op-minion.",
+      "v": "Кашельтошка! Ну так, на жаль, кашельтошка невиліковна. Варто слідкувати за здоров'ям Капіт-ально.",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "Назва хвороби, що робить вас схожим на Міньйона",
+      "v": "Назва хвороби, що робить вас схожим на Капітошку",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "Miniongitis! Yes, sadly, miniongitis is incurable. You should always seek out a second op-minion.",
+      "s": "Кашельтошка! Ну так, на жаль, кашельтошка невиліковна. Варто слідкувати за здоров'ям Капіт-ально.",
       "t": "A",
       "v": "470137_0",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Назва хвороби, що робить вас схожим на Міньйона",
+      "s": "Назва хвороби, що робить вас схожим на Капітошку",
       "t": "A",
       "v": "470135_0",
       "n": "PromptAudio"

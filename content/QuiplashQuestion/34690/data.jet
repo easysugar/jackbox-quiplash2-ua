@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "horse",
+      "v": "кінь",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Coincidentally, “horse” is also what a lazy Quiplash player would type!",
+      "v": "Як не дивно, слово \"кінь\" також написав би дуже лінивий гравець у Сміхрясь!",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Coincidentally, “horse” is also what a lazy Quiplash player would type!",
+      "s": "Як не дивно, слово \"кінь\" також написав би дуже лінивий гравець у Сміхрясь!",
       "t": "A",
       "v": "473945_1",
       "n": "KeywordResponseAudio"

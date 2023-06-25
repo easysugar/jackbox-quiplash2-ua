@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "sex|fucking|intercourse",
+      "v": "сексу|кексу|трахання|статевого акту|коїтусу|злягання",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Nothing you say during sex will hold up in court. At least that’s what the lawyer I’m sleeping with told me.",
+      "v": "Нічого зі сказаного вами під час сексу не матиме сили в суді. Принаймні так мені казала юристка, з якою я спав.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Nothing you say during sex will hold up in court. At least that’s what the lawyer I’m sleeping with told me.",
+      "s": "Нічого зі сказаного вами під час сексу не матиме сили в суді. Принаймні так мені казала юристка, з якою я спав.",
       "t": "A",
       "v": "469522_1",
       "n": "KeywordResponseAudio"

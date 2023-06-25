@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "shortage",
+      "v": "дефіцит",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Don’t even joke about a bacon shortage. I’m still reeling from the maple-glaze price fixing scandal of 2003.",
+      "v": "Навіть не смійте жартувати про дефіцит сала. Я ще не оговтався від скандалу з фіксацією цін на глазур для пасок у 2003 році.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Don’t even joke about a bacon shortage. I’m still reeling from the maple-glaze price fixing scandal of 2003.",
+      "s": "Навіть не смійте жартувати про дефіцит сала. Я ще не оговтався від скандалу з фіксацією цін на глазур для пасок у 2003 році.",
       "t": "A",
       "v": "471259_1",
       "n": "KeywordResponseAudio"

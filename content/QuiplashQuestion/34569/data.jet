@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "penis",
+      "v": "пеніс",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "Wait so, like...still attached to some guy or--you know what, nevermind, I don’t want to know.",
+      "v": "Стоп, то він типу... все ще прив'язаний до когось чи... знаєте що, забули, я не хочу знати.",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "Найдивнішою темою дівич-вечора була б <BLANK>",
+      "v": "Найдивнішою темою дівич-вечора було б <BLANK> у формі пеніса",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "Wait so, like...still attached to some guy or--you know what, nevermind, I don’t want to know.",
+      "s": "Стоп, то він типу... все ще прив'язаний до когось чи... знаєте що, забули, я не хочу знати.",
       "t": "A",
       "v": "473200_0",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Найдивнішою темою дівич-вечора була б <BLANK>",
+      "s": "Найдивнішою темою дівич-вечора було б <BLANK> у формі пеніса",
       "t": "A",
       "v": "473198_0",
       "n": "PromptAudio"

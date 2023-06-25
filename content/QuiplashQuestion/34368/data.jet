@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "no nose|your nose is gone|nose is gone",
+      "v": "нема носа|в тебе нема носа|в тебе ніс зник|твій ніс зник|ніс зник|мінус ніс|немає носа|ніс пропав|він зник|він пропав",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "I had a cousin with no nose. Now you’re supposed to say “how did he smell?” And I say “Terrible!” Hahaha...anyway let’s move on.",
+      "v": "В мене був родич без носа. А ще з жахливою пам'яттю. Бо він не міг \"зарубати собі на носі\"! Хахаха... ну все, перейдімо далі.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "I had a cousin with no nose. Now you’re supposed to say “how did he smell?” And I say “Terrible!” Hahaha...anyway let’s move on.",
+      "s": "В мене був родич без носа. А ще з жахливою пам'яттю. Бо він не міг \"зарубати собі на носі\"! Хахаха... ну все, перейдімо далі.",
       "t": "A",
       "v": "472176_1",
       "n": "KeywordResponseAudio"

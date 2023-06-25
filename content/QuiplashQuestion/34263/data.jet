@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "zombies|zombie apocalypse|zombie shelter|zombie hideout",
+      "v": "зомбі|зомбі-апокаліпсис|сховок від зомбі|схованка від зомбі|укриття від зомбі",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "But if the mall’s abandoned, how are the zombies going to get their Pinkberry?",
+      "v": "Але якщо торговий центр закинутий, де зомбі зможуть собі дістати аджику?",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "But if the mall’s abandoned, how are the zombies going to get their Pinkberry?",
+      "s": "Але якщо торговий центр закинутий, де зомбі зможуть собі дістати аджику?",
       "t": "A",
       "v": "471578_0",
       "n": "KeywordResponseAudio"

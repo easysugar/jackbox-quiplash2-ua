@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "kill him|just kill him|go ahead and kill him",
+      "v": "вбий його|вбийте його|просто вбий його|просто вбийте його|ну ж бо, вбий його|ну ж бо, вбийте його|та вбийте його|та вбий його|вбивай|вбивайте|убийте|убивайте",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Sounds like someone needs couples therapy. Though paying the ransom may actually be cheaper.",
+      "v": "Схоже, комусь треба на сімейну терапію. Хоча викуп може вийти дешевшим.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Sounds like someone needs couples therapy. Though paying the ransom may actually be cheaper.",
+      "s": "Схоже, комусь треба на сімейну терапію. Хоча викуп може вийти дешевшим.",
       "t": "A",
       "v": "542848_0",
       "n": "KeywordResponseAudio"

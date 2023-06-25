@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "urine|pee",
+      "v": "сечу|сеча|сцяки",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Hey, football is not a watersport.",
+      "v": "Гей, футбол - це не якийсь там водний вид спорту.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Hey, football is not a watersport.",
+      "s": "Гей, футбол - це не якийсь там водний вид спорту.",
       "t": "A",
       "v": "470523_2",
       "n": "KeywordResponseAudio"

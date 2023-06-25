@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "farted",
+      "v": "пукнув|перднув|перданув|набздів|напукав",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Hey, you know what they say: He who stated it, matriculated it.",
+      "v": "Гей, знаєте, як кажуть: Хто про це заявив, той це ініціював.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Hey, you know what they say: He who stated it, matriculated it.",
+      "s": "Гей, знаєте, як кажуть: Хто про це заявив, той це ініціював.",
       "t": "A",
       "v": "475648_1",
       "n": "KeywordResponseAudio"

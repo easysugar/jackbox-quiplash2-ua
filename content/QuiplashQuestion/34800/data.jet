@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "lonely|I’m lonely|you’re lonely|just lonely",
+      "v": "нудно|нудьга|скука|мені нудно|тобі нудно|вам нудно|просто нудно|тупо нудно",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Loneliness is a bad reason to call 911, but a great reason to play more Quiplash.",
+      "v": "Нудьга — поганий привід дзвонити на 112, але чудовий привід більше грати у Сміхрясь.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Loneliness is a bad reason to call 911, but a great reason to play more Quiplash.",
+      "s": "Нудьга — поганий привід дзвонити на 112, але чудовий привід більше грати у Сміхрясь.",
       "t": "A",
       "v": "474608_0",
       "n": "KeywordResponseAudio"

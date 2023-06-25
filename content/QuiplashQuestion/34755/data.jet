@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "melted",
+      "v": "розтанув|розплавився",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Frosty didn’t melt, he’s right here! Oh wait. This is mashed potatoes with a carrot in it.",
+      "v": "Олаф не розтанув, він тут! А ні, заждіть. Це просто картопляне пюре з морквинкою.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Frosty didn’t melt, he’s right here! Oh wait. This is mashed potatoes with a carrot in it.",
+      "s": "Олаф не розтанув, він тут! А ні, заждіть. Це просто картопляне пюре з морквинкою.",
       "t": "A",
       "v": "474383_1",
       "n": "KeywordResponseAudio"

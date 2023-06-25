@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "eat the corn|eat the corn stalks|eat the stalks",
+      "v": "з'їсти кукурудзу|з'їсти кукурудзяні стебла|з'їсти стебла|з'їсти",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Eat the corn! Yes. Also just a good way to get more corn in your body, something most Americans really need.",
+      "v": "З'їсти кукурудзу! Так. Але в ідеалі я б її просто зібрав, зварив та продавав би її на пляжі. Разом з пахлавою медовою. Бізнес-план геніальний як ніколи.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Eat the corn! Yes. Also just a good way to get more corn in your body, something most Americans really need.",
+      "s": "З'їсти кукурудзу! Так. Але в ідеалі я б її просто зібрав, зварив та продавав би її на пляжі. Разом з пахлавою медовою. Бізнес-план геніальний як ніколи.",
       "t": "A",
       "v": "473901_0",
       "n": "KeywordResponseAudio"

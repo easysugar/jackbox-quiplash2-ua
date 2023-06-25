@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "What’s a beet?|What are beets?",
+      "v": "Що за насіння?|Шо за насіння?|Що таке насіння?|Шо таке насіння?|Яке насіння?|Яке ще насіння?|що за насіння|шо за насіння|шо таке насіння|що таке насіння|яке насіння|яке ще насіння|насіння",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "If you don’t even know what a beet is, you’re not ready for the mind-blowing info on beets.com.",
+      "v": "Якщо не знаєте, що таке насіння, то ви точно не готові до усіх приголомшливих знань на nasinnia.in.ua.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "If you don’t even know what a beet is, you’re not ready for the mind-blowing info on beets.com.",
+      "s": "Якщо не знаєте, що таке насіння, то ви точно не готові до усіх приголомшливих знань на nasinnia.in.ua.",
       "t": "A",
       "v": "473210_0",
       "n": "KeywordResponseAudio"

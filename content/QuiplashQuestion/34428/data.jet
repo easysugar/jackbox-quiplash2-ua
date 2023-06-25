@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "wrestle",
+      "v": "реслінг|реслінгу",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Wrestling would be awesome. I refuse to vote for anyone who can’t get out of a figure four leglock.",
+      "v": "Це було б легендарно. Я відмовляюся голосувати за будь-кого, хто не вибрався з рингу на своїх двох.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Wrestling would be awesome. I refuse to vote for anyone who can’t get out of a figure four leglock.",
+      "s": "Це було б легендарно. Я відмовляюся голосувати за будь-кого, хто не вибрався з рингу на своїх двох.",
       "t": "A",
       "v": "472488_0",
       "n": "KeywordResponseAudio"

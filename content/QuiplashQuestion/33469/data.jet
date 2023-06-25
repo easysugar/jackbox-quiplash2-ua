@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "carefully|very carefully",
+      "v": "обережно|дуже обережно",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "A Careful Seduction: reminds me of the books my mom used to keep by the bathtub.",
+      "v": "Обережне спокушання - нагадує мені ті книги, які моя мама в сумочці носила.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "A Careful Seduction: reminds me of the books my mom used to keep by the bathtub.",
+      "s": "Обережне спокушання - нагадує мені ті книги, які моя мама в сумочці носила.",
       "t": "A",
       "v": "466404_2",
       "n": "KeywordResponseAudio"

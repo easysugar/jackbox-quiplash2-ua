@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "Taylor Swift",
+      "v": "Азаров|азіров|Микола Янович Азаров|Микола Азаров",
       "n": "Keywords"
     },
     {
@@ -22,12 +22,12 @@
     },
     {
       "t": "S",
-      "v": "If Taylor Swift did it, it’d be all about her breakup with Bond and how she’s bouncing back better than ever...actually that sounds great! Love you Taylor!",
+      "v": "Азаров би виявився унікальним виконавцем нашого гімну - його спів не зможе переспівати ніхто.",
       "n": "KeywordResponseText"
     },
     {
       "t": "S",
-      "v": "Найгірший вибір людини, яка могла б заспівати гімн на День Незалежності",
+      "v": "Найгірша людина, яка могла б заспівати гімн",
       "n": "PromptText"
     },
     {
@@ -36,13 +36,13 @@
       "n": "Location"
     },
     {
-      "s": "If Taylor Swift did it, it’d be all about her breakup with Bond and how she’s bouncing back better than ever...actually that sounds great! Love you Taylor!",
+      "s": "Азаров би виявився унікальним виконавцем нашого гімну - його спів не зможе переспівати ніхто.",
       "t": "A",
       "v": "476539_0",
       "n": "KeywordResponseAudio"
     },
     {
-      "s": "Найгірший вибір людини, яка могла б заспівати гімн на День Незалежності",
+      "s": "Найгірша людина, яка могла б заспівати гімн",
       "t": "A",
       "v": "476537_0",
       "n": "PromptAudio"

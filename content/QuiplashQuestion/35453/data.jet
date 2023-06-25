@@ -12,7 +12,7 @@
     },
     {
       "t": "S",
-      "v": "in the bathroom|while pooping|while peeing",
+      "v": "у туалеті|в туалеті|коли пісяєш|коли какаєш|у вбиральні|поки какаєш",
       "n": "Keywords"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "t": "S",
-      "v": "Hey, the cameras in the bathroom are for YOUR safety. At least that’s what the guy at the gas station told me.",
+      "v": "Гей, взагалі камери у вбиральні - то задля ВАШОЇ безпеки. Принаймні так мені сказав той хлопець на заправці.",
       "n": "KeywordResponseText"
     },
     {
@@ -36,7 +36,7 @@
       "n": "Location"
     },
     {
-      "s": "Hey, the cameras in the bathroom are for YOUR safety. At least that’s what the guy at the gas station told me.",
+      "s": "Гей, взагалі камери у вбиральні - то задля ВАШОЇ безпеки. Принаймні так мені сказав той хлопець на заправці.",
       "t": "A",
       "v": "478440_0",
       "n": "KeywordResponseAudio"
